@@ -1,4 +1,4 @@
-#line 1 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 1 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
@@ -8,10 +8,10 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
 
 
 
+#line 1 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -26,13 +26,13 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
 
 
 
 
 
+#line 1 "D:\\3D\\INC\\assert.chh"
 
 
 
@@ -92,11 +92,7 @@
 
 
 
-#line 67 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
-#line 69 "H:\\BUILD\\SOC\\inc\\assert.chh"
-#line 19 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -105,13 +101,16 @@
 
 
 
+#line 70 "D:\\3D\\INC\\assert.chh"
 
+#line 72 "D:\\3D\\INC\\assert.chh"
+#line 22 "D:\\3D\\INC\\kidgs.chh"
+#line 1 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
 
 
-#line 1 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
 
 
@@ -123,6 +122,7 @@
 
 
 
+#line 1 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
 
 
@@ -222,10 +222,7 @@
 
 
 
-#line 112 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -242,14 +239,16 @@
 
 
 
+#line 118 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
+#line 18 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
 
 
 
-#line 25 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -273,6 +272,7 @@
 
 
 
+#line 31 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
@@ -630,10 +630,7 @@
 
 
 
-#line 406 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
-#line 17 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidsanim.h"
 
 
 
@@ -656,7 +653,10 @@
 
 
 
+#line 412 "D:\\3D\\kauai\\SRC\\framedef.h"
 
+#line 19 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\INC\\kidsanim.h"
 
 
 
@@ -1246,7 +1246,6 @@
 
 
 
-#line 18 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -1272,6 +1271,7 @@
 
 
 
+#line 20 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
@@ -1319,22 +1319,47 @@
 
 
 
-#line 91 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 20 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 93 "D:\\3D\\INC\\kidgsdef.h"
+#line 23 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
 
 
-#line 27 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 30 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
 
 	
-#line 34 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 37 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1342,17 +1367,17 @@
 
 
 	
-#line 42 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 45 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 47 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 50 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 52 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 55 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1436,12 +1461,12 @@
 
 
 
-#line 136 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 139 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
-#line 141 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 144 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1895,14 +1920,14 @@
 
 
 
-#line 595 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 11 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 598 "D:\\3D\\INC\\kidgs.chh"
+#line 14 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
+#line 1 "D:\\3D\\INC\\stdiodef.h"
 
 
 
@@ -1917,10 +1942,10 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
 
 
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -2092,21 +2117,21 @@
 
 
 
-#line 176 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\utestres.h"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
+#line 179 "D:\\3D\\INC\\socdef.h"
 
+#line 19 "D:\\3D\\INC\\stdiodef.h"
+#line 1 "D:\\3D\\INC\\utestres.h"
 
 
 
 
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -2277,7 +2302,6 @@
 
 
 
-#line 6 "H:\\BUILD\\SOC\\inc\\utestres.h"
 
 
 
@@ -2287,6 +2311,7 @@
 
 
 
+#line 6 "D:\\3D\\INC\\utestres.h"
 
 
 
@@ -2341,7 +2366,16 @@
 
 
 
-#line 17 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
+
+
+
+
+
+
+
+
+
+#line 20 "D:\\3D\\INC\\stdiodef.h"
 
 
 
@@ -3404,14 +3438,14 @@
 
 
 
-#line 1080 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
-#line 17 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 1083 "D:\\3D\\INC\\stdiodef.h"
+#line 20 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdefn.h"
+#line 1 "D:\\3D\\INC\\socdefn.h"
 
 
 
@@ -3422,10 +3456,10 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\buildgob.h"
 
 
 
+#line 1 "D:\\3D\\INC\\buildgob.h"
 
 
 
@@ -3491,11 +3525,20 @@
 
 
 
-#line 70 "H:\\BUILD\\SOC\\inc\\buildgob.h"
-#line 12 "H:\\BUILD\\SOC\\inc\\socdefn.h"
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\sharedef.h"
+
+
+
+
+#line 73 "D:\\3D\\INC\\buildgob.h"
+#line 15 "D:\\3D\\INC\\socdefn.h"
+
+
+#line 1 "D:\\3D\\INC\\sharedef.h"
+
+
+
 
 
 
@@ -3572,13 +3615,13 @@
 
 
 
-#line 78 "H:\\BUILD\\SOC\\inc\\sharedef.h"
-#line 15 "H:\\BUILD\\SOC\\inc\\socdefn.h"
+#line 81 "D:\\3D\\INC\\sharedef.h"
+#line 18 "D:\\3D\\INC\\socdefn.h"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\balloons.chh"
+#line 1 "D:\\3D\\INC\\balloons.chh"
 
 
 
@@ -3649,8 +3692,11 @@
 
 
 
-#line 72 "H:\\BUILD\\SOC\\inc\\balloons.chh"
-#line 20 "H:\\BUILD\\SOC\\inc\\socdefn.h"
+
+
+
+#line 75 "D:\\3D\\INC\\balloons.chh"
+#line 23 "D:\\3D\\INC\\socdefn.h"
 
 
 
@@ -4109,13 +4155,13 @@
 
 
 
-#line 479 "H:\\BUILD\\SOC\\inc\\socdefn.h"
+#line 482 "D:\\3D\\INC\\socdefn.h"
 
 
-#line 23 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 26 "D:\\3D\\src\\building\\bldghd.cht"
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\projmain.h"
+#line 1 "D:\\3D\\INC\\projmain.h"
 
 
 
@@ -4521,17 +4567,17 @@
 
 
 
-#line 407 "H:\\BUILD\\SOC\\inc\\projmain.h"
 
-#line 26 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
 
 
+#line 410 "D:\\3D\\INC\\projmain.h"
 
+#line 29 "D:\\3D\\src\\building\\bldghd.cht"
 
-#line 1 "H:\\BUILD\\SOC\\inc\\sharutil.chh"
 
 
 
+#line 1 "D:\\3D\\INC\\sharutil.chh"
 
 
 
@@ -4781,10 +4827,19 @@
 
 
 
-#line 254 "H:\\BUILD\\SOC\\inc\\sharutil.chh"
 
-#line 31 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\biopage.chh"
+
+
+
+
+
+#line 257 "D:\\3D\\INC\\sharutil.chh"
+
+#line 34 "D:\\3D\\src\\building\\bldghd.cht"
+#line 1 "D:\\3D\\INC\\biopage.chh"
+
+
+
 
 
 
@@ -5107,7 +5162,7 @@
 
 
 
-#line 32 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 35 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 SET _dfmbmp = 0x00040000 SET _dfscr = 0x00040000 SET _dfanm = 0x00040000 SET _dffill = 0x00040000 SET _curgok = 0x00040000 SET _dfmask = 0x00040000 SET _dftile = 0x00040000 SET _dfwave = 0x00040000 SET _dfmidi = 0x00040000 SET _dfvid = 0x00040000
@@ -5150,7 +5205,10 @@ ENDCHUNK
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\biopage.chh"
+#line 1 "D:\\3D\\INC\\biopage.chh"
+
+
+
 
 
 
@@ -5473,37 +5531,43 @@ ENDCHUNK
 
 
 
-#line 75 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 78 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\building\\palette.cht"
-
-
-
-
-CHUNK( 'GLCR', 0x00010000,  ) PACK PALETTE "building\bitmaps\palette\socbase.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010001,  ) PACK PALETTE "building\bitmaps\palette\imaginpl.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010002,  ) PACK PALETTE "building\bitmaps\palette\ticketpl.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010003,  ) PACK PALETTE "building\bitmaps\palette\lobbypl.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010004,  ) PACK PALETTE "building\bitmaps\palette\theatpl.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010005,  ) PACK PALETTE "building\bitmaps\palette\bkstagpl.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010006,  ) PACK PALETTE "building\bitmaps\palette\insppl.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010008,  ) PACK PALETTE "building\bitmaps\palette\projpal.bmp" ENDCHUNK
-CHUNK( 'GLCR', 0x00010007,  ) PACK PALETTE "building\bitmaps\palette\studiopl.bmp" ENDCHUNK
-
-CHUNK( 'GLCR', 0x00010009,  ) PACK PALETTE "building\bitmaps\palette\streetpl.bmp" ENDCHUNK
-
-#line 81 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 1 "D:\\3D\\src\\building\\palette.cht"
 
 
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\building\\navbars.cht"
+
+CHUNK( 'GLCR', 0x00010000,  ) PACK PALETTE "bitmaps\palette\socbase.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010001,  ) PACK PALETTE "bitmaps\palette\imaginpl.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010002,  ) PACK PALETTE "bitmaps\palette\ticketpl.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010003,  ) PACK PALETTE "bitmaps\palette\lobbypl.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010004,  ) PACK PALETTE "bitmaps\palette\theatpl.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010005,  ) PACK PALETTE "bitmaps\palette\bkstagpl.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010006,  ) PACK PALETTE "bitmaps\palette\insppl.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010008,  ) PACK PALETTE "bitmaps\palette\projpal.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0x00010007,  ) PACK PALETTE "bitmaps\palette\studiopl.bmp" ENDCHUNK
+
+CHUNK( 'GLCR', 0x00010009,  ) PACK PALETTE "bitmaps\palette\streetpl.bmp" ENDCHUNK
+
+#line 84 "D:\\3D\\src\\building\\bldghd.cht"
+
+
+
+
+
+
+#line 1 "D:\\3D\\src\\building\\navbars.cht"
+
+
+
 
 
 
@@ -5651,27 +5715,33 @@ SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x1000
 
 ENDCHUNK
 
-#line 88 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\building\\music.cht"
+#line 91 "D:\\3D\\src\\building\\bldghd.cht"
+#line 1 "D:\\3D\\src\\building\\music.cht"
 
 
 
 
-CHUNK( 'MIDS', 0x00010011, ) PACK MIDI "building\sound\backstag\bakstage.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010012, ) PACK MIDI "building\sound\ticket\boothjam.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010013, ) PACK MIDI "building\sound\imagin\closet.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010014, ) PACK MIDI "building\sound\imagin\coaster.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010015, ) PACK MIDI "building\sound\inspirat\ideas.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010016, ) PACK MIDI "building\sound\ticket\jamloop.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010017, ) PACK MIDI "building\sound\lobby\lobby.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010018, ) PACK MIDI "building\sound\projects\project.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x00010019, ) PACK MIDI "building\sound\snackbar\snack.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x0001001a, ) PACK MIDI "building\sound\studio\studio.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x0001001b, ) PACK MIDI "building\sound\login\tag.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x0001001c, ) PACK MIDI "building\sound\theatre\theater.mid" ENDCHUNK;
-CHUNK( 'MIDS', 0x0001001d, ) PACK MIDI "building\sound\imagin\coaster.mid" ENDCHUNK;
-#line 89 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\building\\portfol.cht"
+
+
+
+CHUNK( 'MIDS', 0x00010011, ) PACK MIDI "sound\backstag\bakstage.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010012, ) PACK MIDI "sound\ticket\boothjam.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010013, ) PACK MIDI "sound\imagin\closet.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010014, ) PACK MIDI "sound\imagin\coaster.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010015, ) PACK MIDI "sound\inspirat\ideas.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010016, ) PACK MIDI "sound\ticket\jamloop.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010017, ) PACK MIDI "sound\lobby\lobby.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010018, ) PACK MIDI "sound\projects\project.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x00010019, ) PACK MIDI "sound\snackbar\snack.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x0001001a, ) PACK MIDI "sound\studio\studio.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x0001001b, ) PACK MIDI "sound\login\tag.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x0001001c, ) PACK MIDI "sound\theatre\theater.mid" ENDCHUNK;
+CHUNK( 'MIDS', 0x0001001d, ) PACK MIDI "sound\imagin\coaster.mid" ENDCHUNK;
+#line 92 "D:\\3D\\src\\building\\bldghd.cht"
+#line 1 "D:\\3D\\src\\building\\portfol.cht"
+
+
+
 
 
 
@@ -5697,18 +5767,21 @@ SET _curgok = 0x00010101 CHUNK( 'GOKD', 0x00010101,  ) PACK SHORT BO OSK LONG 0 
 		
 		DestroyGob( 0x00010101 );
 	ENDCHUNK
-#line 90 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 93 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\building\\login.cht"
+#line 1 "D:\\3D\\src\\building\\login.cht"
+
+
+
 
 
 
 
 SET _curgok = 0x00010200 CHUNK( 'GOKD', 0x00010200,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\login\login.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\login\login.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010001);
 		0x00010000->keys = ((0x00000002));
@@ -5766,12 +5839,15 @@ ENDCHUNK
 
 
 
-#line 95 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 98 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\building\\street.cht"
+#line 1 "D:\\3D\\src\\building\\street.cht"
+
+
+
 
 
 
@@ -5797,7 +5873,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00010400 CHUNK( 'GOKD', 0x00010400,  ) PACK SHORT BO OSK LONG 2 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 0xFFFFFFFF 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000040 ) PACKEDFILE "building\pbm\street\street1.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000040 ) PACKEDFILE "pbm\street\street1.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) SCRIPT
 	0x00010000->fTrans = (1);
 	RunScriptGob(0x00010000, 0x0027, 0x00010009);	
@@ -5816,7 +5892,7 @@ ENDCHUNK
 
 SET _curgok = 0x00010401 CHUNK( 'GOKD', 0x00010401,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 10 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
 SET _dfvid++ CHUNK( 'VIDE', _dfvid,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BYTE 1 STN "mhole2.avi" ENDCHUNK
-#line 100 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 103 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
@@ -5825,7 +5901,7 @@ SET _dfvid++ CHUNK( 'VIDE', _dfvid,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0
 
 
 SET _curgok = 0x00010500 CHUNK( 'GOKD', 0x00010500,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\ticket\ticket1.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\ticket\ticket1.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010002);
 		0x00010000->keys = ((0x00000002));
@@ -5844,7 +5920,7 @@ SET _curgok = 0x00010500 CHUNK( 'GOKD', 0x00010500,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00010580 CHUNK( 'GOKD', 0x00010580,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\ticket\ticket2.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\ticket\ticket2.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010002);
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -5869,7 +5945,7 @@ SET _curgok = 0x00010580 CHUNK( 'GOKD', 0x00010580,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00010600 CHUNK( 'GOKD', 0x00010600,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\lobby\lobby1.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\lobby\lobby1.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 
 		RunScriptGob(0x00010000, 0x0027, 0x00010003);
@@ -5902,7 +5978,7 @@ SET _curgok = 0x00010600 CHUNK( 'GOKD', 0x00010600,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00010700 CHUNK( 'GOKD', 0x00010700,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\lobby\lobby2.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\lobby\lobby2.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010003);
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -5918,14 +5994,17 @@ SET _curgok = 0x00010700 CHUNK( 'GOKD', 0x00010700,  ) PACK SHORT BO OSK LONG 0 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\building\\waiting.cht"
+#line 1 "D:\\3D\\src\\building\\waiting.cht"
+
+
+
 
 
 
 
 
 SET _curgok = 0x00010900 CHUNK( 'GOKD', 0x00010900,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\waiting\waiting.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\waiting\waiting.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010003);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -5943,7 +6022,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00010706 CHUNK( 'GOKD', 0x00010706,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\lobby\lobby3m1.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\lobby\lobby3m1.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT 
 		If(((25 > 31) ? ( ::fBio2 & (1<<(25&31)) ) : ( ::fBio1 & (1<<(25&31)) )) );
 			
@@ -5956,7 +6035,7 @@ SET _curgok = 0x00010706 CHUNK( 'GOKD', 0x00010706,  ) PACK SHORT BO OSK LONG 0 
 	ENDCHUNK
 
 SET _curgok = 0x00010707 CHUNK( 'GOKD', 0x00010707,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\lobby\lobby3m2.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\lobby\lobby3m2.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT 
 		If(((26 > 31) ? ( ::fBio2 & (1<<(26&31)) ) : ( ::fBio1 & (1<<(26&31)) )) );
 			
@@ -5969,7 +6048,7 @@ SET _curgok = 0x00010707 CHUNK( 'GOKD', 0x00010707,  ) PACK SHORT BO OSK LONG 0 
 	ENDCHUNK
 
 SET _curgok = 0x00010708 CHUNK( 'GOKD', 0x00010708,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\lobby\lobby3m3.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\lobby\lobby3m3.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT 
 		If(((27 > 31) ? ( ::fBio2 & (1<<(27&31)) ) : ( ::fBio1 & (1<<(27&31)) )) );
 			
@@ -5981,13 +6060,13 @@ SET _curgok = 0x00010708 CHUNK( 'GOKD', 0x00010708,  ) PACK SHORT BO OSK LONG 0 
 		End;		
 	ENDCHUNK
 
-#line 202 "H:\\BUILD\\SOC\\src\\building\\bldghd.cht"
+#line 205 "D:\\3D\\src\\building\\bldghd.cht"
 
 
 
 
 SET _curgok = 0x00010800 CHUNK( 'GOKD', 0x00010800,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\snackbar\snackbr2.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\snackbar\snackbr2.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010003);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6006,8 +6085,8 @@ ENDCHUNK
 
 SET _curgok = 0x00010c00 CHUNK( 'GOKD', 0x00010c00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
 	SET _dffill++ CHUNK( 'FILL', _dffill,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x0001 SET _st <<= 16 SET _st += 0x0000 _st ) LONG BO OSK 0 0 640 480 LONG 0xffffffff 0xffffffff BYTE 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 ENDCHUNK
- 	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0002 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\theatre\theatre1.pbm" ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0003 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\theatre\the1dark.pbm" ENDCHUNK
+ 	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0002 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\theatre\theatre1.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0003 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\theatre\the1dark.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		;
 		RunScriptGob(0x00010000, 0x0027, 0x00010004);
@@ -6034,7 +6113,7 @@ SET _curgok = 0x00010c00 CHUNK( 'GOKD', 0x00010c00,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00010d00 CHUNK( 'GOKD', 0x00010d00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\theatre\theatre2.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\theatre\theatre2.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010004);
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6053,7 +6132,7 @@ SET _curgok = 0x00010d00 CHUNK( 'GOKD', 0x00010d00,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00010e00 CHUNK( 'GOKD', 0x00010e00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\theatre\theatre3.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\theatre\theatre3.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010004);
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6068,7 +6147,7 @@ SET _curgok = 0x00010e00 CHUNK( 'GOKD', 0x00010e00,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00010f00 CHUNK( 'GOKD', 0x00010f00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\theatre\theatre4.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\theatre\theatre4.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		;
 		;
@@ -6122,7 +6201,7 @@ SET _curgok = 0x00011000 CHUNK( 'GOKD', 0x00011000,  ) PACK SHORT BO OSK LONG 0 
 		CreateChildThis( 0x00011003, 0x00011003 );
 		CreateChildThis( 0x0001100a, 0x0001100a );
 	ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\backstag\backstg1.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\backstag\backstg1.pbm" ENDCHUNK
 
 
 
@@ -6134,7 +6213,7 @@ SET _curgok = 0x00011000 CHUNK( 'GOKD', 0x00011000,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00011100 CHUNK( 'GOKD', 0x00011100,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\backstag\backstg2.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\backstag\backstg2.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010005);
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6154,34 +6233,34 @@ SET _curgok = 0x00011100 CHUNK( 'GOKD', 0x00011100,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00011103 CHUNK( 'GOKD', 0x00011103,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 33 LONG 0 0 0xffffffff 0x00000005 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\backstag\bk2ltdr2.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\backstag\bk2ltdr2.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0021, 0x00010f00, 0x0002);
 	ENDCHUNK
 
 
 SET _curgok = 0x00011104 CHUNK( 'GOKD', 0x00011104,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 33 LONG 0 0 0xffffffff 0x00000006 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\backstag\bk2rtdr2.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\backstag\bk2rtdr2.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0021, 0x00010e00, 0x0001);
 	ENDCHUNK
 
 
 SET _curgok = 0x00011106 CHUNK( 'GOKD', 0x00011106,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 44 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\backstag\bk2map.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\backstag\bk2map.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT 
 		CreateChildGob( ::kgobCurrentPlace, 0x00012000, 0x00012000 );
 	ENDCHUNK
 
 
 SET _curgok = 0x00011105 CHUNK( 'GOKD', 0x00011105,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 44 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\backstag\bk2quit.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\backstag\bk2quit.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT 
 		EnqueueCid(106, 0, 0, 0, 0, 0);;
 	ENDCHUNK
 
 SET _curgok = 0x00011107 CHUNK( 'GOKD', 0x00011107,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "building\bitmaps\backstag\bkstg2m1.bmp" ENDCHUNK
+	SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, 0, 0 ) "bitmaps\backstag\bkstg2m1.bmp" ENDCHUNK
 	SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT 
 		If( ((40 > 31) ? ( ::fBio2 & (1<<(40&31)) ) : ( ::fBio1 & (1<<(40&31)) )) );
 			
@@ -6198,7 +6277,7 @@ SET _curgok = 0x00011107 CHUNK( 'GOKD', 0x00011107,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00011400 CHUNK( 'GOKD', 0x00011400,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\inspirat\inspir1.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\inspirat\inspir1.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
 		RunScriptGob(0x00010000, 0x0027, 0x00010006);
@@ -6229,7 +6308,7 @@ SET _curgok = 0x00011400 CHUNK( 'GOKD', 0x00011400,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00011500 CHUNK( 'GOKD', 0x00011500,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\inspirat\inspir2.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\inspirat\inspir2.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010006);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6248,7 +6327,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011600 CHUNK( 'GOKD', 0x00011600,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\inspirat\inspir3.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\inspirat\inspir3.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010006);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6266,7 +6345,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011700 CHUNK( 'GOKD', 0x00011700,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\inspirat\inspir4.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\inspirat\inspir4.pbm" ENDCHUNK
 	SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 		RunScriptGob(0x00010000, 0x0027, 0x00010006);
 		0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6287,8 +6366,8 @@ SET _curgok = 0x00011700 CHUNK( 'GOKD', 0x00011700,  ) PACK SHORT BO OSK LONG 0 
 
 
 SET _curgok = 0x00011800 CHUNK( 'GOKD', 0x00011800,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\studio\studio1.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0002 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\studio\studio1b.pbm" ENDCHUNK	
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\studio\studio1.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0002 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\studio\studio1b.pbm" ENDCHUNK	
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	;
 
@@ -6331,7 +6410,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011900 CHUNK( 'GOKD', 0x00011900,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\studio\studio2.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\studio\studio2.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010007);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6355,7 +6434,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011a00 CHUNK( 'GOKD', 0x00011a00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\studio\studio3.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\studio\studio3.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010007);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6374,7 +6453,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011b00 CHUNK( 'GOKD', 0x00011b00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\studio\studio4.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\studio\studio4.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010007);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6395,7 +6474,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011c00 CHUNK( 'GOKD', 0x00011c00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\projects\project1.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\projects\project1.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	
 	
@@ -6466,7 +6545,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011d00 CHUNK( 'GOKD', 0x00011d00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\projects\project2.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\projects\project2.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010008);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6489,7 +6568,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011e00 CHUNK( 'GOKD', 0x00011e00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\projects\project3.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\projects\project3.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010008);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6504,7 +6583,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00011f00 CHUNK( 'GOKD', 0x00011f00,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 0 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "building\pbm\projects\project4.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\projects\project4.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	RunScriptGob(0x00010000, 0x0027, 0x00010008);
 	0x00010000->keys = ((0x00000004 | 0x00000002 | 0x00000001 | 0x00000008 | 0x00000010 | 0x00000020));
@@ -6526,8 +6605,8 @@ SET _curgok = 0x00010300 CHUNK( 'GOKD', 0x00010300,  ) PACK SHORT BO OSK LONG 0 
 		RunScriptGob( 0x00010000, 0x0024, 0xFFFFFFFF, 0 );			
 		CreateChildThis( 0x00010301, 0x00010301 );
 	ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0001 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\imagin\back1.pbm" ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0002 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\imagin\back2.pbm" ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0003 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\imagin\back3.pbm" ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0004 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\imagin\back4.pbm" ENDCHUNK
-	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0005 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "building\pbm\imagin\back5.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0001 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\imagin\back1.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0002 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\imagin\back2.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0003 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\imagin\back3.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0004 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\imagin\back4.pbm" ENDCHUNK
+	SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x0005 SET _st <<= 16 SET _st += 0x0000 _st ) PACKEDFILE "pbm\imagin\back5.pbm" ENDCHUNK

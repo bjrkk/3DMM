@@ -1,9 +1,3 @@
-/* Copyright (c) Microsoft Corporation.
-   Licensed under the MIT License. */
-
-/* Copyright (c) Microsoft Corporation.
-   Licensed under the MIT License. */
-
 	// Setup
 	long cbTot;
 	byte *pbLimDst = (byte *)pvDst + cbDst;

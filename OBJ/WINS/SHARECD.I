@@ -1,4 +1,4 @@
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
+#line 1 "D:\\3D\\src\\shared\\sharecd.cht"
 
 
 
@@ -23,10 +23,10 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
 
 
 
+#line 1 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -41,13 +41,13 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
 
 
 
 
 
+#line 1 "D:\\3D\\INC\\assert.chh"
 
 
 
@@ -107,11 +107,7 @@
 
 
 
-#line 67 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
-#line 69 "H:\\BUILD\\SOC\\inc\\assert.chh"
-#line 19 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -120,13 +116,16 @@
 
 
 
+#line 70 "D:\\3D\\INC\\assert.chh"
 
+#line 72 "D:\\3D\\INC\\assert.chh"
+#line 22 "D:\\3D\\INC\\kidgs.chh"
+#line 1 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
 
 
-#line 1 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
 
 
@@ -138,6 +137,7 @@
 
 
 
+#line 1 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
 
 
@@ -237,10 +237,7 @@
 
 
 
-#line 112 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -257,14 +254,16 @@
 
 
 
+#line 118 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
+#line 18 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
 
 
 
-#line 25 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -288,6 +287,7 @@
 
 
 
+#line 31 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
@@ -645,10 +645,7 @@
 
 
 
-#line 406 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
-#line 17 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidsanim.h"
 
 
 
@@ -671,7 +668,10 @@
 
 
 
+#line 412 "D:\\3D\\kauai\\SRC\\framedef.h"
 
+#line 19 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\INC\\kidsanim.h"
 
 
 
@@ -1261,7 +1261,6 @@
 
 
 
-#line 18 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -1287,6 +1286,7 @@
 
 
 
+#line 20 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
@@ -1334,22 +1334,47 @@
 
 
 
-#line 91 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 20 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 93 "D:\\3D\\INC\\kidgsdef.h"
+#line 23 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
 
 
-#line 27 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 30 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
 
 	
-#line 34 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 37 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1357,17 +1382,17 @@
 
 
 	
-#line 42 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 45 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 47 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 50 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 52 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 55 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1451,12 +1476,12 @@
 
 
 
-#line 136 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 139 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
-#line 141 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 144 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1910,12 +1935,12 @@
 
 
 
-#line 595 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 26 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
+#line 598 "D:\\3D\\INC\\kidgs.chh"
+#line 29 "D:\\3D\\src\\shared\\sharecd.cht"
 SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 10 SET _dfmask = 10 SET _dftile = 10 SET _dfwave = 10 SET _dfmidi = 10 SET _dfvid = 10
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
+#line 1 "D:\\3D\\INC\\stdiodef.h"
 
 
 
@@ -1930,10 +1955,10 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
 
 
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -2105,21 +2130,21 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 176 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\utestres.h"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
+#line 179 "D:\\3D\\INC\\socdef.h"
 
+#line 19 "D:\\3D\\INC\\stdiodef.h"
+#line 1 "D:\\3D\\INC\\utestres.h"
 
 
 
 
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -2290,7 +2315,6 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 6 "H:\\BUILD\\SOC\\inc\\utestres.h"
 
 
 
@@ -2300,6 +2324,7 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
+#line 6 "D:\\3D\\INC\\utestres.h"
 
 
 
@@ -2354,7 +2379,16 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 17 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
+
+
+
+
+
+
+
+
+
+#line 20 "D:\\3D\\INC\\stdiodef.h"
 
 
 
@@ -3417,9 +3451,9 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 1080 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
-#line 30 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\buildgob.h"
+#line 1083 "D:\\3D\\INC\\stdiodef.h"
+#line 33 "D:\\3D\\src\\shared\\sharecd.cht"
+#line 1 "D:\\3D\\INC\\buildgob.h"
 
 
 
@@ -3488,9 +3522,15 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 70 "H:\\BUILD\\SOC\\inc\\buildgob.h"
-#line 31 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\sharedef.h"
+
+
+
+#line 73 "D:\\3D\\INC\\buildgob.h"
+#line 34 "D:\\3D\\src\\shared\\sharecd.cht"
+#line 1 "D:\\3D\\INC\\sharedef.h"
+
+
+
 
 
 
@@ -3567,9 +3607,9 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 78 "H:\\BUILD\\SOC\\inc\\sharedef.h"
-#line 32 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\balloons.chh"
+#line 81 "D:\\3D\\INC\\sharedef.h"
+#line 35 "D:\\3D\\src\\shared\\sharecd.cht"
+#line 1 "D:\\3D\\INC\\balloons.chh"
 
 
 
@@ -3640,9 +3680,15 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 72 "H:\\BUILD\\SOC\\inc\\balloons.chh"
-#line 33 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\helpbook.h"
+
+
+
+#line 75 "D:\\3D\\INC\\balloons.chh"
+#line 36 "D:\\3D\\src\\shared\\sharecd.cht"
+#line 1 "D:\\3D\\INC\\helpbook.h"
+
+
+
 
 
 
@@ -3782,10 +3828,10 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 141 "H:\\BUILD\\SOC\\inc\\helpbook.h"
+#line 144 "D:\\3D\\INC\\helpbook.h"
 
-#line 34 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\projmain.h"
+#line 37 "D:\\3D\\src\\shared\\sharecd.cht"
+#line 1 "D:\\3D\\INC\\projmain.h"
 
 
 
@@ -4191,12 +4237,18 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 407 "H:\\BUILD\\SOC\\inc\\projmain.h"
 
-#line 35 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\biopage.chh"
+#line 410 "D:\\3D\\INC\\projmain.h"
+
+#line 38 "D:\\3D\\src\\shared\\sharecd.cht"
+
+
+#line 1 "D:\\3D\\INC\\biopage.chh"
+
+
+
 
 
 
@@ -4519,53 +4571,53 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 38 "H:\\BUILD\\SOC\\src\\shared\\sharecd.cht"
+#line 41 "D:\\3D\\src\\shared\\sharecd.cht"
 
 
 
 
 
 SET _curgok = 0x00015102 CHUNK( 'GOKD', 0x00015102,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 1 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000040 ) PACKEDFILE "shared\pbm\page01.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000041 ) PACKEDFILE "shared\pbm\page02.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000042 ) PACKEDFILE "shared\pbm\page03.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000043 ) PACKEDFILE "shared\pbm\page04.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000044 ) PACKEDFILE "shared\pbm\page05.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000045 ) PACKEDFILE "shared\pbm\page06.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000046 ) PACKEDFILE "shared\pbm\page07.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000047 ) PACKEDFILE "shared\pbm\page08.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000048 ) PACKEDFILE "shared\pbm\page09.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000049 ) PACKEDFILE "shared\pbm\page10.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004a ) PACKEDFILE "shared\pbm\page11.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004b ) PACKEDFILE "shared\pbm\page12.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004c ) PACKEDFILE "shared\pbm\page13.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004d ) PACKEDFILE "shared\pbm\page14.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004e ) PACKEDFILE "shared\pbm\page15.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004f ) PACKEDFILE "shared\pbm\page16.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000050 ) PACKEDFILE "shared\pbm\page17.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000051 ) PACKEDFILE "shared\pbm\page18.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000052 ) PACKEDFILE "shared\pbm\page19.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000053 ) PACKEDFILE "shared\pbm\page20.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000054 ) PACKEDFILE "shared\pbm\page21.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000055 ) PACKEDFILE "shared\pbm\page22.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000056 ) PACKEDFILE "shared\pbm\page23.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000057 ) PACKEDFILE "shared\pbm\page24.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000058 ) PACKEDFILE "shared\pbm\page25.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000059 ) PACKEDFILE "shared\pbm\page26.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005a ) PACKEDFILE "shared\pbm\page27.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005b ) PACKEDFILE "shared\pbm\page28.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005c ) PACKEDFILE "shared\pbm\page29.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005d ) PACKEDFILE "shared\pbm\page30.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005e ) PACKEDFILE "shared\pbm\page31.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005f ) PACKEDFILE "shared\pbm\page32.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000060 ) PACKEDFILE "shared\pbm\page33.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000061 ) PACKEDFILE "shared\pbm\page34.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000062 ) PACKEDFILE "shared\pbm\page35.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000063 ) PACKEDFILE "shared\pbm\page36.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000064 ) PACKEDFILE "shared\pbm\page37.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000065 ) PACKEDFILE "shared\pbm\page38.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000066 ) PACKEDFILE "shared\pbm\page39.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000067 ) PACKEDFILE "shared\pbm\page40.pbm" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000068 ) PACKEDFILE "shared\pbm\page41.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000040 ) PACKEDFILE "pbm\page01.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000041 ) PACKEDFILE "pbm\page02.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000042 ) PACKEDFILE "pbm\page03.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000043 ) PACKEDFILE "pbm\page04.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000044 ) PACKEDFILE "pbm\page05.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000045 ) PACKEDFILE "pbm\page06.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000046 ) PACKEDFILE "pbm\page07.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000047 ) PACKEDFILE "pbm\page08.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000048 ) PACKEDFILE "pbm\page09.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000049 ) PACKEDFILE "pbm\page10.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004a ) PACKEDFILE "pbm\page11.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004b ) PACKEDFILE "pbm\page12.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004c ) PACKEDFILE "pbm\page13.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004d ) PACKEDFILE "pbm\page14.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004e ) PACKEDFILE "pbm\page15.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000004f ) PACKEDFILE "pbm\page16.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000050 ) PACKEDFILE "pbm\page17.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000051 ) PACKEDFILE "pbm\page18.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000052 ) PACKEDFILE "pbm\page19.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000053 ) PACKEDFILE "pbm\page20.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000054 ) PACKEDFILE "pbm\page21.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000055 ) PACKEDFILE "pbm\page22.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000056 ) PACKEDFILE "pbm\page23.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000057 ) PACKEDFILE "pbm\page24.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000058 ) PACKEDFILE "pbm\page25.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000059 ) PACKEDFILE "pbm\page26.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005a ) PACKEDFILE "pbm\page27.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005b ) PACKEDFILE "pbm\page28.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005c ) PACKEDFILE "pbm\page29.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005d ) PACKEDFILE "pbm\page30.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005e ) PACKEDFILE "pbm\page31.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x0000005f ) PACKEDFILE "pbm\page32.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000060 ) PACKEDFILE "pbm\page33.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000061 ) PACKEDFILE "pbm\page34.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000062 ) PACKEDFILE "pbm\page35.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000063 ) PACKEDFILE "pbm\page36.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000064 ) PACKEDFILE "pbm\page37.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000065 ) PACKEDFILE "pbm\page38.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000066 ) PACKEDFILE "pbm\page39.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000067 ) PACKEDFILE "pbm\page40.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000068 ) PACKEDFILE "pbm\page41.pbm" ENDCHUNK
 
 

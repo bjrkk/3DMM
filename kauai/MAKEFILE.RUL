@@ -39,8 +39,8 @@
 
 {$(SRC_DIR)}.cpp{$(OBJ_DIR)}.obj:
     !@echo Compiling $(TGT_NAME) Src... $<
-    $(CPP) $(CPPFLAGS) /Zi /Fd$(KAUAI_OBJ_DIR)\kauai.pdb /Fp$(KAUAI_OBJ_DIR)\kauai.pch /Fo$@ $(DEFS) $<
-    $(CHKERR)
+	$(CPP) $(CPPFLAGS) /Zi /Fd$(KAUAI_OBJ_DIR)\kauai.pdb /Fp$(KAUAI_OBJ_DIR)\kauai.pch /Fo$@ $(DEFS) $<
+	$(CHKERR)
 
 
 {$(SRC_DIR)}.c{$(OBJ_DIR)}.obj:

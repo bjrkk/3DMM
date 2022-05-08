@@ -1,4 +1,4 @@
-#---$(SOC_ROOT)\src\help\makefile
+#---$(SOC_ROOT)\src\makefile
 
 !IFNDEF MAKEFILE_HELP
 MAKEFILE_HELP = 1
@@ -98,8 +98,8 @@ $(SOC_OBJ_DIR) :
 CLEAN_HELP_CHUNKS:
     @echo <<delhelp.bat
 @echo off
-rm -f $(HELP_CHUNK_TARGETS: =^
-rm -f )
+del /f $(HELP_CHUNK_TARGETS: =^
+del /f )
 <<KEEP
     call delhelp.bat
 

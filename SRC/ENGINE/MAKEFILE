@@ -93,8 +93,8 @@ $(SOC_OBJ_DIR) :
 CLEAN_ENGINE_OBJ:
     @echo <<deleng.bat
 @echo off
-rm -f $(ENGINE_TARGETS: =^
-rm -f )
+del /f $(ENGINE_TARGETS: =^
+del /f )
 <<KEEP
     cmd /c deleng.bat
     del deleng.bat

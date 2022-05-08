@@ -1,0 +1,118 @@
+#-- brzb.mak
+
+!IFNDEF MAKEFILE_BRZB
+MAKEFILE_BRZB = 1
+
+!INCLUDE $(KAUAI_ROOT)\makefile.def
+
+# Variables
+
+BREN_SRC_DIR      = $(SOC_ROOT)\bren
+BREN_BRZB_SRC_DIR = $(BREN_SRC_DIR)\zb
+
+BREN_OBJ_ROOT_DIR = $(BREN_SRC_DIR)\obj
+BREN_OBJ_DIR      = $(BREN_OBJ_ROOT_DIR)\$(BLD_TYPE_DIR)
+SOC_OBJ_DIR       = $(SOC_ROOT)\obj\$(BLD_TYPE_DIR)
+
+!IF "$(LOCAL_BUILD)" == "1"
+BREN_TGT_DIR =
+!ELSE
+BREN_TGT_DIR = $(BREN_OBJ_DIR)^\
+!ENDIF
+
+BREN_BRZB_TARGETS = \
+	$(BREN_OBJ_DIR)\awtmz.obj\
+	$(BREN_OBJ_DIR)\bbox.obj\
+	$(BREN_OBJ_DIR)\decalz.obj\
+	$(BREN_OBJ_DIR)\dither.obj\
+	$(BREN_OBJ_DIR)\frcp.obj\
+	$(BREN_OBJ_DIR)\l_piz.obj\
+	$(BREN_OBJ_DIR)\p_piz.obj\
+	$(BREN_OBJ_DIR)\perspz.obj\
+	$(BREN_OBJ_DIR)\zbclip.obj\
+	$(BREN_OBJ_DIR)\zbmatl.obj\
+	$(BREN_OBJ_DIR)\zbmesh.obj\
+	$(BREN_OBJ_DIR)\zbmeshe.obj\
+	$(BREN_OBJ_DIR)\zbmeshp.obj\
+	$(BREN_OBJ_DIR)\zbrendr.obj\
+	$(BREN_OBJ_DIR)\zbsetup.obj\
+	$(BREN_OBJ_DIR)\mesh386.obj\
+	$(BREN_OBJ_DIR)\safediv.obj\
+	$(BREN_OBJ_DIR)\sar16.obj\
+	$(BREN_OBJ_DIR)\t_piza.obj\
+	$(BREN_OBJ_DIR)\t_piza2.obj\
+	$(BREN_OBJ_DIR)\ti8_piz.obj\
+	$(BREN_OBJ_DIR)\ti8_pizp.obj\
+	$(BREN_OBJ_DIR)\tt15_piz.obj\
+	$(BREN_OBJ_DIR)\tt24_piz.obj\
+
+# Compile Rules
+
+PROGRAM_DATABASE = $(BREN_TGT_DIR)soc.pdb
+PRECOMPILED_HEADER = $(BREN_TGT_DIR)soc.pch
+
+SRC_DIR=$(BREN_BRZB_SRC_DIR)
+OBJ_DIR=$(BREN_OBJ_DIR)
+TGT_NAME=Bren_Brzb
+
+!INCLUDE $(SOC_ROOT)\makefile.rul
+
+# Flags
+
+ASMFLAGS= -D__WATCOMC__=1 -D__VISUALC__=1 -D__TARGET_MSC__=1 -DBASED_FIXED=1 $(ASMFLAGS)
+CPPFLAGS= /c /W3 /nologo /Zp4 /Gz -D__VISUALC__=1 -D__TARGET_MSC__=1 -DBASED_FIXED=1 -I. -I..\FW
+
+# Targets
+
+ALL_BREN_BRZB =\
+	$(BREN_TGT_DIR)brzbmxr.lib\
+	$(SOC_ROOT)\elib\$(BLD_TYPE_DIR)\brzbmxr.lib\
+
+ALL_TARGETS_ROOT = $(ALL_TARGETS_ROOT) $(ALL_BREN_BRZB)
+
+CLEAN_BREN_BRZB = CLEAN_BREN_BRZB_OBJ
+CLEAN_TARGETS_ROOT=$(CLEAN_TARGETS_ROOT) $(CLEAN_BREN_BRZB)
+
+# +
+
+# Only define generic targets if we're not building in the current directory
+!IF "$(LOCAL_BUILD)" != "1"
+!IF "$(LOCAL_BUILD)" != "0"
+
+$(BREN_BRZB_SRC_DIR)\ZB.INC: $(BREN_BRZB_SRC_DIR)\ZB.H
+	@$(H2INC) /G3 /Zp4 /C /D__VISUALC__ /D__H2INC__ /D_NO_PROTOTYPES -DBASED_FIXED /I..\inc /I..\fw zb.h
+
+ALL: $(BREN_BRZB_SRC_DIR)\ZB.INC $(BREN_OBJ_DIR) $(ALL_BREN_BRZB)
+CLEAN: $(CLEAN_BREN_BRZB) ALL
+
+!ENDIF # !LOCAL_BUILD != 0
+
+$(BREN_OBJ_DIR):
+    @echo Making Directories $(BREN_OBJ_DIR)...
+    if not exist $(BREN_OBJ_ROOT_DIR)/nul mkdir $(BREN_OBJ_ROOT_DIR)
+    if not exist $(BREN_OBJ_DIR)/nul mkdir $(BREN_OBJ_DIR)
+
+!ENDIF # !LOCAL_BUILD != 1
+
+CLEAN_BREN_BRZB_OBJ:
+    @echo <<delbrenbrzb.bat
+@echo off
+del /f $(BREN_BRZB_TARGETS: =^
+del /f )
+<<KEEP
+    cmd /c delbrenbrzb.bat
+    del delbrenbrzb.bat
+
+$(BREN_TGT_DIR)brzbmxr.lib : $(BREN_BRZB_TARGETS)
+    $(LINK) -lib $(LFLAGS)\
+    $(BREN_BRZB_TARGETS)\
+    -out:$(BREN_TGT_DIR)brzbmxr.lib
+    $(CHKERR)
+
+$(SOC_ROOT)\elib\$(BLD_TYPE_DIR)\brzbmxr.lib : $(BREN_TGT_DIR)brzbmxr.lib
+    if not exist $(SOC_ROOT)\elib\$(BLD_TYPE_DIR) md $(SOC_ROOT)\elib\$(BLD_TYPE_DIR)
+    $(CHKERR)
+    copy $(BREN_TGT_DIR)brzbmxr.lib $(SOC_ROOT)\elib\$(BLD_TYPE_DIR)
+    $(CHKERR)
+
+!ENDIF

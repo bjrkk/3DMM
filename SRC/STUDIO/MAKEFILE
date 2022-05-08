@@ -43,14 +43,15 @@ UTEST_TARGETS =\
     $(TARGET_DIR)tatr.obj\
     $(TARGET_DIR)portf.obj\
     $(TARGET_DIR)mminstal.obj\
-    $(TARGET_DIR)utest.res
+    $(TARGET_DIR)utest.res\
 
 UTEST_DEPS =\
     $(WNET_LIB) \
     $(VFW32_LIB) \
     $(AUDIO_LIB) \
     $(BREN_LIB) \
-    $(TARGET_DIR)engine.lib
+    $(TARGET_DIR)engine.lib \
+    $(MSVCNT_ROOT)\LIB\MSACM32.LIB \
 
 UTEST_CHT_FILES = \
     $(STUDIO_SRC_DIR)\utestgst.cht\
@@ -123,8 +124,6 @@ TBOXTHD_DEPS = \
 PROGRAM_DATABASE = $(TARGET_DIR)soc.pdb
 PRECOMPILED_HEADER = $(TARGET_DIR)soc.pch
 
-CPPEXTRA = /Zi /Fd$(PROGRAM_DATABASE) /Fp$(PRECOMPILED_HEADER)
-
 SRC_DIR=$(STUDIO_SRC_DIR)
 OBJ_DIR=$(SOC_OBJ_DIR)
 TGT_NAME=Studio
@@ -167,9 +166,9 @@ $(SOC_OBJ_DIR) :
 CLEAN_UTEST:
     @echo <<delutest.bat
 @echo off
-rm -f $(UTEST_TARGETS: =^
-rm -f )
-rm -f $(TARGET_DIR)3dmovie.chk
+del /f $(UTEST_TARGETS: =^
+del /f )
+del /f $(TARGET_DIR)3dmovie.chk
 <<KEEP
     cmd /c delutest.bat
     rem del delutest.bat
@@ -178,8 +177,8 @@ rm -f $(TARGET_DIR)3dmovie.chk
 CLEAN_STUDIO_CHUNKS:
     @echo <<delchunk.bat
 @echo off
-rm -f $(STUDIO_CHUNK_TARGETS: =^
-rm -f )
+del /f $(STUDIO_CHUNK_TARGETS: =^
+del /f )
 <<KEEP
     cmd /c delchunk.bat
     rem del delchunk.bat
@@ -188,8 +187,8 @@ rm -f )
 CLEAN_STUDIO_CHTS:
     @echo <<delcht.bat
 @echo off
-rm -f $(STUDIO_CHT_TARGETS: =^
-rm -f )
+del /f $(STUDIO_CHT_TARGETS: =^
+del /f )
 <<KEEP
     cmd /c delcht.bat
     rem del delcht.bat
@@ -232,6 +231,6 @@ $(TARGET_DIR)3dmovie.exe : $(UTEST_DEPS) $(UTEST_TARGETS) $(TARGET_DIR)utest.lnk
 	$(UTEST_DEPS) \
 	$(UTEST_TARGETS) \
 	-out:$(TARGET_DIR)3dmovie.exe @$(TARGET_DIR)utest.lnk
-    $(CHKERR)
+	$(CHKERR)
 
-!ENDIF  # !MAKEFILE_STUDIO
+!ENDIF # !MAKEFILE_STUDIO

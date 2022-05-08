@@ -68,8 +68,8 @@ ENDCHUNK
 #define ktpcQuitAlert		0x00016043
 #define ktpcHelpAbout		0x0001604f
 
-WAVE_CHUNK( "shared\sound\util\splot.wav", kwavSplot )
-WAVE_CHUNK( "shared\sound\util\ding.wav", kwavDing )
+WAVE_CHUNK( "sound\util\splot.wav", kwavSplot )
+WAVE_CHUNK( "sound\util\ding.wav", kwavDing )
 
 // ---------------------------------------------------------
 // The following is the object definition for the utility

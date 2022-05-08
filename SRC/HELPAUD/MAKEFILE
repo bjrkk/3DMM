@@ -1,4 +1,4 @@
-#---$(SOC_ROOT)\src\helpaud\makefile
+#---$(SOC_ROOT)\src\makefile
 
 !IFNDEF MAKEFILE_HELPAUD
 MAKEFILE_HELPAUD = 1
@@ -68,8 +68,8 @@ $(SOC_OBJ_DIR) :
 CLEAN_HELPAUD_CHUNKS:
     @echo <<delhelp.bat
 @echo off
-rm -f $(HELPAUD_CHUNK_TARGETS: =^
-rm -f )
+del /f $(HELPAUD_CHUNK_TARGETS: =^
+del /f )
 <<KEEP
     call delhelp.bat
 

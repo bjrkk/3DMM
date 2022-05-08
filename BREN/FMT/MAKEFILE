@@ -1,0 +1,101 @@
+#-- brfm.mak
+
+!IFNDEF MAKEFILE_BRFM
+MAKEFILE_BRFM = 1
+
+!INCLUDE $(KAUAI_ROOT)\makefile.def
+
+# Variables
+
+BREN_SRC_DIR      = $(SOC_ROOT)\bren
+BREN_BRFM_SRC_DIR = $(BREN_SRC_DIR)\fmt
+
+BREN_OBJ_ROOT_DIR = $(BREN_SRC_DIR)\obj
+BREN_OBJ_DIR      = $(BREN_OBJ_ROOT_DIR)\$(BLD_TYPE_DIR)
+SOC_OBJ_DIR       = $(SOC_ROOT)\obj\$(BLD_TYPE_DIR)
+
+!IF "$(LOCAL_BUILD)" == "1"
+BREN_TGT_DIR =
+!ELSE
+BREN_TGT_DIR = $(BREN_OBJ_DIR)^\
+!ENDIF
+
+BREN_BRFM_TARGETS = \
+	$(BREN_OBJ_DIR)\loadnff.obj\
+	$(BREN_OBJ_DIR)\loadasc.obj\
+	$(BREN_OBJ_DIR)\loadscr.obj\
+	$(BREN_OBJ_DIR)\loadgif.obj\
+	$(BREN_OBJ_DIR)\loadiff.obj\
+	$(BREN_OBJ_DIR)\loadbmp.obj\
+	$(BREN_OBJ_DIR)\loadtga.obj\
+	$(BREN_OBJ_DIR)\savescr.obj\
+
+# Compile Rules
+
+PROGRAM_DATABASE = $(BREN_TGT_DIR)soc.pdb
+PRECOMPILED_HEADER = $(BREN_TGT_DIR)soc.pch
+
+CPPFLAGS = $(CPPFLAGS) /I"..\fw"
+
+SRC_DIR=$(BREN_BRFM_SRC_DIR)
+OBJ_DIR=$(BREN_OBJ_DIR)
+TGT_NAME=Bren_Brfm
+
+!INCLUDE $(SOC_ROOT)\makefile.rul
+
+# Flags
+
+ASMFLAGS= -D__WATCOMC__=1 -D__VISUALC__=1 -D__TARGET_MSC__=1 -DBASED_FIXED=1 $(ASMFLAGS)
+CPPFLAGS= /c /W3 /nologo /Zp4 /Gz -D__VISUALC__=1 -D__TARGET_MSC__=1 -DBASED_FIXED=1 -I. -I..\fw
+
+# Targets
+
+ALL_BREN_BRFM = \
+	$(BREN_TGT_DIR)brfmmxr.lib\
+	$(SOC_ROOT)\elib\$(BLD_TYPE_DIR)\brfmmxr.lib\
+
+ALL_TARGETS_ROOT = $(ALL_TARGETS_ROOT) $(ALL_BREN_BRFM)
+
+CLEAN_BREN_BRFM = CLEAN_BREN_BRFM_OBJ
+CLEAN_TARGETS_ROOT=$(CLEAN_TARGETS_ROOT) $(CLEAN_BREN_BRFM)
+
+# +
+
+# Only define generic targets if we're not building in the current directory
+!IF "$(LOCAL_BUILD)" != "1"
+!IF "$(LOCAL_BUILD)" != "0"
+
+ALL: $(BREN_OBJ_DIR) $(ALL_BREN_BRFM)
+CLEAN: $(CLEAN_BREN_BRFM) ALL
+
+!ENDIF # !LOCAL_BUILD != 0
+
+$(BREN_OBJ_DIR):
+    @echo Making Directories $(BREN_OBJ_DIR)...
+    if not exist $(BREN_OBJ_ROOT_DIR)/nul mkdir $(BREN_OBJ_ROOT_DIR)
+    if not exist $(BREN_OBJ_DIR)/nul mkdir $(BREN_OBJ_DIR)
+
+!ENDIF # !LOCAL_BUILD != 1
+
+CLEAN_BREN_BRFM_OBJ:
+    @echo <<delbrenbrfm.bat
+@echo off
+del /f $(BREN_BRFM_TARGETS: =^
+del /f )
+<<KEEP
+    cmd /c delbrenbrfm.bat
+    del delbrenbrfm.bat
+
+$(BREN_TGT_DIR)brfmmxr.lib : $(BREN_BRFM_TARGETS)
+    $(LINK) -lib $(LFLAGS)\
+    $(BREN_BRFM_TARGETS)\
+    -out:$(BREN_TGT_DIR)brfmmxr.lib
+    $(CHKERR)
+
+$(SOC_ROOT)\elib\$(BLD_TYPE_DIR)\brfmmxr.lib : $(BREN_TGT_DIR)brfmmxr.lib
+    if not exist $(SOC_ROOT)\elib\$(BLD_TYPE_DIR) md $(SOC_ROOT)\elib\$(BLD_TYPE_DIR)
+    $(CHKERR)
+    copy $(BREN_TGT_DIR)brfmmxr.lib $(SOC_ROOT)\elib\$(BLD_TYPE_DIR)
+    $(CHKERR)
+
+!ENDIF

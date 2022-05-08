@@ -50,6 +50,11 @@ enum
 // in the win95 include files which we are not using yet.
 
 // From WINUSER.H...
+#if defined(_WIN32) && _MSC_VER >= 1100
+#include "WINUSER.H"
+#include "COMMDLG.H"
+#include "WINDOWS.H"
+#else
 typedef struct tagNMHDR
 {
     HWND  hwndFrom;
@@ -144,3 +149,4 @@ typedef LPOFNOTIFYA LPOFNOTIFY;
 #define CommDlg_OpenSave_SetControlText(_hdlg, _id, _text) \
         (void)SNDMSG(_hdlg, CDM_SETCONTROLTEXT, (WPARAM)_id, (LPARAM)(LPSTR)_text)
 
+#endif

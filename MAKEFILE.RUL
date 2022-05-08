@@ -42,13 +42,13 @@
 
 {$(SRC_DIR)}.cpp{$(OBJ_DIR)}.obj:
     !@echo Compiling $(TGT_NAME) Src... $<
-    $(CPP) $(CPPFLAGS) /Zi /Fd$(SOC_OBJ_DIR)\soc.pdb /Fp$(SOC_OBJ_DIR)\soc.pch /Fo$@ $(DEFS) $<
-    $(CHKERR)
+	$(CPP) $(CPPFLAGS) /Zi /Fd$(SOC_OBJ_DIR)\soc.pdb /Fp$(SOC_OBJ_DIR)\soc.pch /Fo$@ $(DEFS) $<
+	$(CHKERR)
 
 
 {$(SRC_DIR)}.c{$(OBJ_DIR)}.obj:
     !@echo Compiling $(TGT_NAME) Src... $<
-    $(CPP) $(CPPFLAGS) /Zi /Fd$(SOC_OBJ_DIR)\soc.pdb /Fp$(SOC_OBJ_DIR)\soc.pch /Fo$@ $(DEFS) $<
+	$(CPP) $(CPPFLAGS) /Zi /Fd$(SOC_OBJ_DIR)\soc.pdb /Fp$(SOC_OBJ_DIR)\soc.pch /Fo$@ $(DEFS) $<
     $(CHKERR)
 
 
@@ -84,19 +84,19 @@
 
 {$(SRC_DIR)}.cpp{$(OBJ_DIR)}.cod:
     !@echo Compiling $(TGT_NAME) Src... $<
-    $(CPP) /FAcs $(CPPFLAGS) /Zi /Fd$(SOC_OBJ_DIR)\soc.pdb /Fp$(SOC_OBJ_DIR)\soc.pch $(DEFS) /Fa$@  $<
-    $(CHKERR)
+	$(CPP) /FAcs $(CPPFLAGS) /Zi /Fd$(SOC_OBJ_DIR)\soc.pdb /Fp$(SOC_OBJ_DIR)\soc.pch $(DEFS) /Fa$@  $<
+	$(CHKERR)
 
 
 !ELSE   # !LOCAL_BUILD
 
 
 {$(SRC_DIR)}.cpp.obj:
-    $(CPP) $(CPPFLAGS) /Zi /Fdsoc.pdb /Fpsoc.pch $(DEFS) $<
+	$(CPP) $(CPPFLAGS) /Zi /Fdsoc.pdb /Fpsoc.pch $(DEFS) $<
     $(CHKERR)
 
 {$(SRC_DIR)}.c.obj:
-    $(CPP) $(CPPFLAGS) /Zi /Fdsoc.pdb /Fpsoc.pch $(DEFS) $<
+	$(CPP) $(CPPFLAGS) /Zi /Fdsoc.pdb /Fpsoc.pch $(DEFS) $<
     $(CHKERR)
 
 {$(SRC_DIR)}.asm.obj:
@@ -123,8 +123,8 @@
     $(CHKERR)
 
 {$(SRC_DIR)}.cpp.cod:
-    $(CPP) /FAcs $(CPPFLAGS) /Zi /Fdsoc.pdb /Fpsoc.pch $(DEFS) /Fa$@  $<
-    $(CHKERR)
+	$(CPP) /FAcs $(CPPFLAGS) /Zi /Fdsoc.pdb /Fpsoc.pch $(DEFS) /Fa$@  $<
+	$(CHKERR)
 
 
 !ENDIF  # LOCAL_BUILD

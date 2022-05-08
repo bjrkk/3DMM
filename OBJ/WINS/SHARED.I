@@ -1,4 +1,4 @@
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\src\\shared\\shared.cht"
 
 
 
@@ -23,10 +23,10 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
 
 
 
+#line 1 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -41,13 +41,13 @@
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
 
 
 
 
 
+#line 1 "D:\\3D\\INC\\assert.chh"
 
 
 
@@ -107,11 +107,7 @@
 
 
 
-#line 67 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
-#line 69 "H:\\BUILD\\SOC\\inc\\assert.chh"
-#line 19 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -120,13 +116,16 @@
 
 
 
+#line 70 "D:\\3D\\INC\\assert.chh"
 
+#line 72 "D:\\3D\\INC\\assert.chh"
+#line 22 "D:\\3D\\INC\\kidgs.chh"
+#line 1 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
 
 
-#line 1 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
 
 
@@ -138,6 +137,7 @@
 
 
 
+#line 1 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
 
 
@@ -237,10 +237,7 @@
 
 
 
-#line 112 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -257,14 +254,16 @@
 
 
 
+#line 118 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
+#line 18 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
 
 
 
-#line 25 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -288,6 +287,7 @@
 
 
 
+#line 31 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
@@ -645,10 +645,7 @@
 
 
 
-#line 406 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
-#line 17 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidsanim.h"
 
 
 
@@ -671,7 +668,10 @@
 
 
 
+#line 412 "D:\\3D\\kauai\\SRC\\framedef.h"
 
+#line 19 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\INC\\kidsanim.h"
 
 
 
@@ -1261,7 +1261,6 @@
 
 
 
-#line 18 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -1287,6 +1286,7 @@
 
 
 
+#line 20 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
@@ -1334,22 +1334,47 @@
 
 
 
-#line 91 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 20 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 93 "D:\\3D\\INC\\kidgsdef.h"
+#line 23 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
 
 
-#line 27 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 30 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
 
 	
-#line 34 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 37 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1357,17 +1382,17 @@
 
 
 	
-#line 42 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 45 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 47 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 50 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 52 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 55 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1451,12 +1476,12 @@
 
 
 
-#line 136 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 139 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
-#line 141 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 144 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1910,12 +1935,12 @@
 
 
 
-#line 595 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 26 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
+#line 598 "D:\\3D\\INC\\kidgs.chh"
+#line 29 "D:\\3D\\src\\shared\\shared.cht"
 SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 10 SET _dfmask = 10 SET _dftile = 10 SET _dfwave = 10 SET _dfmidi = 10 SET _dfvid = 10
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
+#line 1 "D:\\3D\\INC\\stdiodef.h"
 
 
 
@@ -1930,10 +1955,10 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
 
 
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -2105,21 +2130,21 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 176 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\utestres.h"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
+#line 179 "D:\\3D\\INC\\socdef.h"
 
+#line 19 "D:\\3D\\INC\\stdiodef.h"
+#line 1 "D:\\3D\\INC\\utestres.h"
 
 
 
 
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -2290,7 +2315,6 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 6 "H:\\BUILD\\SOC\\inc\\utestres.h"
 
 
 
@@ -2300,6 +2324,7 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
+#line 6 "D:\\3D\\INC\\utestres.h"
 
 
 
@@ -2354,7 +2379,16 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 17 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
+
+
+
+
+
+
+
+
+
+#line 20 "D:\\3D\\INC\\stdiodef.h"
 
 
 
@@ -3417,9 +3451,9 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 1080 "H:\\BUILD\\SOC\\inc\\stdiodef.h"
-#line 30 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\buildgob.h"
+#line 1083 "D:\\3D\\INC\\stdiodef.h"
+#line 33 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\INC\\buildgob.h"
 
 
 
@@ -3488,9 +3522,15 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 70 "H:\\BUILD\\SOC\\inc\\buildgob.h"
-#line 31 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\sharedef.h"
+
+
+
+#line 73 "D:\\3D\\INC\\buildgob.h"
+#line 34 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\INC\\sharedef.h"
+
+
+
 
 
 
@@ -3567,9 +3607,9 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 78 "H:\\BUILD\\SOC\\inc\\sharedef.h"
-#line 32 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\balloons.chh"
+#line 81 "D:\\3D\\INC\\sharedef.h"
+#line 35 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\INC\\balloons.chh"
 
 
 
@@ -3640,9 +3680,15 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 72 "H:\\BUILD\\SOC\\inc\\balloons.chh"
-#line 33 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\helpbook.h"
+
+
+
+#line 75 "D:\\3D\\INC\\balloons.chh"
+#line 36 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\INC\\helpbook.h"
+
+
+
 
 
 
@@ -3782,10 +3828,10 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 141 "H:\\BUILD\\SOC\\inc\\helpbook.h"
+#line 144 "D:\\3D\\INC\\helpbook.h"
 
-#line 34 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\projmain.h"
+#line 37 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\INC\\projmain.h"
 
 
 
@@ -4191,12 +4237,18 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 407 "H:\\BUILD\\SOC\\inc\\projmain.h"
 
-#line 35 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\biopage.chh"
+#line 410 "D:\\3D\\INC\\projmain.h"
+
+#line 38 "D:\\3D\\src\\shared\\shared.cht"
+
+
+#line 1 "D:\\3D\\INC\\biopage.chh"
+
+
+
 
 
 
@@ -4519,8 +4571,8 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 38 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\sharutil.chh"
+#line 41 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\INC\\sharutil.chh"
 
 
 
@@ -4773,13 +4825,13 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 254 "H:\\BUILD\\SOC\\inc\\sharutil.chh"
 
-#line 39 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\util.cht"
 
 
+#line 257 "D:\\3D\\INC\\sharutil.chh"
 
+#line 42 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\src\\shared\\util.cht"
 
 
 
@@ -4821,7 +4873,16 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\helptops.h"
+
+
+
+
+
+
+#line 1 "D:\\3D\\INC\\helptops.h"
+
+
+
 
 
 
@@ -7048,9 +7109,9 @@ SET _dfmbmp = 10 SET _dfscr = 10 SET _dfanm = 10 SET _dffill = 10 SET _curgok = 
 
 
 
-#line 2228 "H:\\BUILD\\SOC\\inc\\helptops.h"
+#line 2231 "D:\\3D\\INC\\helptops.h"
 
-#line 46 "H:\\BUILD\\SOC\\src\\shared\\util.cht"
+#line 49 "D:\\3D\\src\\shared\\util.cht"
 
 
 
@@ -7073,8 +7134,8 @@ ENDCHUNK
 
 
 
-CHUNK( 'WAVE', 0x00010010, ) FILE "shared\sound\util\splot.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00010004, ) FILE "shared\sound\util\ding.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010010, ) FILE "sound\util\splot.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010004, ) FILE "sound\util\ding.wav" ENDCHUNK
 
 
 
@@ -7428,26 +7489,26 @@ CHUNK( 'GLOP', 0x0001604f, ) SCRIPT
 		DestroyGob( GidParThis() );
 	End;
 ENDCHUNK
-#line 40 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\cursors.cht"
+#line 43 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\src\\shared\\cursors.cht"
 
 
 
 
-CHUNK( 'GGCR', 0x00000001, ) PACK CURSOR "shared\cursors\hotspot.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000002, ) PACK CURSOR "shared\cursors\default.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000003, ) PACK CURSOR "shared\cursors\actions2.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000004, ) PACK CURSOR "shared\cursors\crs1018.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000005, ) PACK CURSOR "shared\cursors\turnleft.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000006, ) PACK CURSOR "shared\cursors\turnrigt.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000007, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
-CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
-#line 41 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\map.cht"
 
 
+CHUNK( 'GGCR', 0x00000001, ) PACK CURSOR "cursors\hotspot.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000002, ) PACK CURSOR "cursors\default.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000003, ) PACK CURSOR "cursors\actions2.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000004, ) PACK CURSOR "cursors\crs1018.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000005, ) PACK CURSOR "cursors\turnleft.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000006, ) PACK CURSOR "cursors\turnrigt.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000007, ) PACK CURSOR "cursors\turnarnd.cur" ENDCHUNK
+CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "cursors\turnarnd.cur" ENDCHUNK
 
+#line 44 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\src\\shared\\map.cht"
 
 
 
@@ -7472,18 +7533,17 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\socdefn.h"
 
 
 
 
 
 
+#line 1 "D:\\3D\\INC\\socdefn.h"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\buildgob.h"
 
 
 
@@ -7493,6 +7553,7 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
+#line 1 "D:\\3D\\INC\\buildgob.h"
 
 
 
@@ -7553,10 +7614,8 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
-#line 12 "H:\\BUILD\\SOC\\inc\\socdefn.h"
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\sharedef.h"
 
 
 
@@ -7567,8 +7626,10 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
+#line 15 "D:\\3D\\INC\\socdefn.h"
 
 
+#line 1 "D:\\3D\\INC\\sharedef.h"
 
 
 
@@ -7634,12 +7695,10 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
-#line 15 "H:\\BUILD\\SOC\\inc\\socdefn.h"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\balloons.chh"
 
 
 
@@ -7651,10 +7710,12 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
+#line 18 "D:\\3D\\INC\\socdefn.h"
 
 
 
 
+#line 1 "D:\\3D\\INC\\balloons.chh"
 
 
 
@@ -7711,7 +7772,25 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
-#line 20 "H:\\BUILD\\SOC\\inc\\socdefn.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 23 "D:\\3D\\INC\\socdefn.h"
 
 
 
@@ -8170,11 +8249,14 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
-#line 479 "H:\\BUILD\\SOC\\inc\\socdefn.h"
+#line 482 "D:\\3D\\INC\\socdefn.h"
 
 
-#line 29 "H:\\BUILD\\SOC\\src\\shared\\map.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\map.chh"
+#line 32 "D:\\3D\\src\\shared\\map.cht"
+#line 1 "D:\\3D\\src\\shared\\map.chh"
+
+
+
 
 
 
@@ -8268,11 +8350,11 @@ CHUNK( 'GGCR', 0x00000009, ) PACK CURSOR "shared\cursors\turnarnd.cur" ENDCHUNK
 
 
 
-#line 95 "H:\\BUILD\\SOC\\src\\shared\\map.chh"
-#line 30 "H:\\BUILD\\SOC\\src\\shared\\map.cht"
+#line 98 "D:\\3D\\src\\shared\\map.chh"
+#line 33 "D:\\3D\\src\\shared\\map.cht"
 
-CHUNK( 'WAVE', 0x00010008, ) FILE "shared\sound\mapobj.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00010009, ) FILE "shared\sound\mapopen.wav" ENDCHUNK	
+CHUNK( 'WAVE', 0x00010008, ) FILE "sound\mapobj.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010009, ) FILE "sound\mapopen.wav" ENDCHUNK	
 
 
 
@@ -8291,7 +8373,7 @@ CHUNK( 'WAVE', 0x00010009, ) FILE "shared\sound\mapopen.wav" ENDCHUNK
 
 
 SET _curgok = 0x00012000 CHUNK( 'GOKD', 0x00012000,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 900 LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000040 ) PACKEDFILE "shared\pbm\map\mapback.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, 0x00000040 ) PACKEDFILE "pbm\map\mapback.pbm" ENDCHUNK
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	PlaySoundGob(0x00010000, 'WAVE', 0x00010009, 1, 0x00010000, 1, 1,998);
 
@@ -8406,11 +8488,11 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012055 CHUNK( 'GOKD', 0x00012055,  ) PACK SHORT BO OSK LONG 0 LONG 0 581 365 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\map\cancel.bmp" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "bmp\map\cancel.bmp" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0001 _st )
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0002 _st )
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\map\cancelc.bmp" ENDCHUNK
-SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x001D _st ) FILE "shared\sound\map\cancel.wav" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) BITMAP( 0x00, 0, 0 ) "bmp\map\cancelc.bmp" ENDCHUNK
+SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x001D _st ) FILE "sound\map\cancel.wav" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 	; ; ; If (0); If (0x00010000->cDisable >= 1); EnqueueCid(50094, 0, 0, 0, 0, 0); End; 0x00010000->cDisable = 0; Else; 0x00010000->cDisable--; If (0x00010000->cDisable == 0); EnqueueCid(50094, 0, 0, 0, 0, 0); End; End;
 	DestroyGob( 0x00012000 );
@@ -8419,11 +8501,11 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012062 CHUNK( 'GOKD', 0x00012062,  ) PACK SHORT BO OSK LONG 0 LONG 0 571 426 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\map\exit.bmp" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "bmp\map\exit.bmp" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0001 _st )
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0002 _st )
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\map\exits.bmp" ENDCHUNK
-SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x001D _st ) FILE "shared\sound\map\mapexit.wav" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) BITMAP( 0x00, 0, 0 ) "bmp\map\exits.bmp" ENDCHUNK
+SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x001D _st ) FILE "sound\map\mapexit.wav" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 	; ; ; If (0); If (0x00010000->cDisable >= 1); EnqueueCid(50094, 0, 0, 0, 0, 0); End; 0x00010000->cDisable = 0; Else; 0x00010000->cDisable--; If (0x00010000->cDisable == 0); EnqueueCid(50094, 0, 0, 0, 0, 0); End; End;
 	DestroyGob( 0x00012000 );
@@ -8434,7 +8516,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012003 CHUNK( 'GOKD', 0x00012003,  ) PACK SHORT BO OSK LONG 6 LONG 0 0 0 555 LONG 0 0 0xffffffff 0x00000002 0xFFFFFFFF 0 0xFFFFFFFF ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 6, 22 ) "shared\bmp\map\here.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 6, 22 ) "bmp\map\here.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 30 8 32 70 4 0 0 0 6
 	SHORT 13 1 22 4 2 0 0 0 4
 ENDCHUNK
@@ -8512,7 +8594,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012056 CHUNK( 'GOKD', 0x00012056,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\ideamsk.bmp" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\ideamsk.bmp" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 	
 	RunScriptGob(0x00012000, 0x0021, 0x00011400,
@@ -8521,7 +8603,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012057 CHUNK( 'GOKD', 0x00012057,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\studmsk.bmp" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\studmsk.bmp" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00011800,
 			Match( 0x00011800, 0x0001, 0x00011c00, 0x0001, 0x00011000, 0x0002, 0x00010c00, 0x0004, 0x00010600, 0x0002, 0x00010580, 0x0003, 0x00011400, 0x0006, 0x00011800, 0x0001), 0);
@@ -8529,7 +8611,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012050 CHUNK( 'GOKD', 0x00012050,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\projmsk.bmp" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\projmsk.bmp" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00011c00,
 			Match( 0x00011c00, 0x0001, 0x00011c00, 0x0001, 0x00011000, 0x0002, 0x00010c00, 0x0004, 0x00010600, 0x0002, 0x00010580, 0x0003, 0x00011400, 0x0006, 0x00011800, 0x0001), 0);
@@ -8537,7 +8619,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012051 CHUNK( 'GOKD', 0x00012051,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\bkstgmsk.bmp" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\bkstgmsk.bmp" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00011000,
 			Match( 0x00011000, 0x0001, 0x00011c00, 0x0001, 0x00011000, 0x0002, 0x00010c00, 0x0004, 0x00010600, 0x0002, 0x00010580, 0x0003, 0x00011400, 0x0006, 0x00011800, 0x0001), 0);
@@ -8545,7 +8627,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012058 CHUNK( 'GOKD', 0x00012058,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\theatmsk.bmp" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\theatmsk.bmp" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00010c00,
 			Match( 0x00010c00, 0x0001, 0x00011c00, 0x0001, 0x00011000, 0x0002, 0x00010c00, 0x0004, 0x00010600, 0x0002, 0x00010580, 0x0003, 0x00011400, 0x0006, 0x00011800, 0x0001), 0);
@@ -8554,7 +8636,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012052 CHUNK( 'GOKD', 0x00012052,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\LOBBYMSK.BMP" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\LOBBYMSK.BMP" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00010600, Match( 0x00010600, 0x0001, 0x00011c00, 0x0001, 0x00011000, 0x0002, 0x00010c00, 0x0004, 0x00010600, 0x0002, 0x00010580, 0x0003, 0x00011400, 0x0006, 0x00011800, 0x0001),
 			0);
@@ -8562,7 +8644,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x00012054 CHUNK( 'GOKD', 0x00012054,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\TICKTMSK.BMP" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\TICKTMSK.BMP" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00010580,
 			Match( 0x00010580, 0x0001, 0x00011c00, 0x0001, 0x00011000, 0x0002, 0x00010c00, 0x0004, 0x00010600, 0x0002, 0x00010580, 0x0003, 0x00011400, 0x0006, 0x00011800, 0x0001), 0);
@@ -8571,35 +8653,35 @@ ENDCHUNK
 
 
 SET _curgok = 0x0001205a CHUNK( 'GOKD', 0x0001205a,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\biomsk.bmp" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\biomsk.bmp" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob( 0x00012000, 0x0021, 0x00011400, 0x0008 , 0 );
 ENDCHUNK
 
 
 SET _curgok = 0x00012059 CHUNK( 'GOKD', 0x00012059,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\SPLOTMSK.BMP" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\SPLOTMSK.BMP" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob( 0x00012000, 0x0021, 0x00011400, 0x0007 , 0 );
 ENDCHUNK
 
 
 SET _curgok = 0x0001205d CHUNK( 'GOKD', 0x0001205d,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\TBOXMSK.BMP" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\TBOXMSK.BMP" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob(0x00012000, 0x0021, 0x00011800, 0x0002, 1);
 ENDCHUNK
 
 
 SET _curgok = 0x0001205b CHUNK( 'GOKD', 0x0001205b,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\LOGOMSK.BMP" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\LOGOMSK.BMP" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob( 0x00012000, 0x0021, 0x00011c00, 0x0004 , 0 );
 ENDCHUNK
 
 
 SET _curgok = 0x0001205c CHUNK( 'GOKD', 0x0001205c,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "shared\bmp\map\GIZMOMSK.BMP" ENDCHUNK
+SET _dfmask++ CHUNK( 'MASK', _dfmask,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) MASK( 0x00, ,  ) "bmp\map\GIZMOMSK.BMP" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
  	RunScriptGob( 0x00012000, 0x0021, 0x00011c00, 0x0005 , 0 );
 ENDCHUNK
@@ -8609,7 +8691,7 @@ ENDCHUNK
 
 
 SET _curgok = 0x0001205f CHUNK( 'GOKD', 0x0001205f,  ) PACK SHORT BO OSK LONG 3 LONG 0 0 0 60 LONG 0 0 0xffffffff 0x00000002 0xFFFFFFFF 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\map\volthmb.bmp" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "bmp\map\volthmb.bmp" ENDCHUNK
 
 
 
@@ -8652,12 +8734,15 @@ SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x1000
 	StopSound( .siiLoop );
 ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'GLSC', _dfanm, SET _st = 0x10000 SET _st |= 0x0018 _st )
-#line 42 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
+#line 45 "D:\\3D\\src\\shared\\shared.cht"
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\sharhelp.cht"
+#line 1 "D:\\3D\\src\\shared\\sharhelp.cht"
+
+
+
 
 
 
@@ -8674,11 +8759,11 @@ ADOPT( 'GOKD', _curgok, 'GLSC', _dfanm, SET _st = 0x10000 SET _st |= 0x0018 _st 
 SET _curgok = 0x00016050 CHUNK( 'GOKD', 0x00016050, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 700
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 115, 72 ) "shared\bmp\alert.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 115, 72 ) "bmp\alert.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 14 14 24 183 8 0 0 0 24
 	SHORT 14 14 24 95 8 0 0 0 24
 ENDCHUNK
-SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) FILE "shared\sound\alert2.wav" ENDCHUNK
+SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) FILE "sound\alert2.wav" ENDCHUNK
 
 
 CHUNK( 'GLOP', 0x00016051,  ) SCRIPT
@@ -8706,7 +8791,7 @@ ENDCHUNK
 SET _curgok = 0x00016001 CHUNK( 'GOKD', 0x00016001, ) PACK SHORT BO OSK LONG 0
 	LONG 0 40 40 500
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 93, 29 ) "shared\bmp\balln1b.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 93, 29 ) "bmp\balln1b.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 7 24 7 64 8 0 0 0 22
 	SHORT 7 8 7 22 8 17 8 8 8
 ENDCHUNK
@@ -8718,7 +8803,7 @@ SET _curgok = 0x0001600d CHUNK( 'GOKD', 0x0001600d, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 0 ) "shared\bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 0 ) "bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 4 4 160 8 0 0 0 4
 	SHORT 3 3 3 50 8 0 0 0 3
 ENDCHUNK
@@ -8730,7 +8815,7 @@ SET _curgok = 0x0001602e CHUNK( 'GOKD', 0x0001602e, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 168, 56 ) "shared\bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 168, 56 ) "bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 4 4 160 8 0 0 0 4
 	SHORT 3 3 3 50 8 0 0 0 3
 ENDCHUNK
@@ -8752,7 +8837,7 @@ SET _curgok = 0x0001600e CHUNK( 'GOKD', 0x0001600e, ) PACK SHORT BO OSK LONG 0
 	LONG 0 40 40 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 231, 143 ) "shared\bmp\toolhelp.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 231, 143 ) "bmp\toolhelp.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 14 14 24 183 8 0 0 0 24
 	SHORT 14 14 24 95 8 0 0 0 24
 ENDCHUNK
@@ -8765,7 +8850,7 @@ SET _curgok = 0x0001602a CHUNK( 'GOKD', 0x0001602a, ) PACK SHORT BO OSK LONG 0
 	LONG 0 100 100 700
 	LONG 0 0 0xffffffff 0x00000002 0x0001 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 120, 72 ) "shared\bmp\alert.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 120, 72 ) "bmp\alert.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 14 14 24 191 8 0 0 0 24
 	SHORT 14 14 24 95 8 0 0 0 24
 ENDCHUNK
@@ -8787,7 +8872,7 @@ SET _curgok = 0x0001600f CHUNK( 'GOKD', 0x0001600f, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 899
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "shared\bmp\balln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "bmp\balln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 0 0 0 32 1 0 0 0 0
 	SHORT 0 0 0 32 1 0 0 0 0
 ENDCHUNK
@@ -8799,7 +8884,7 @@ SET _curgok = 0x00016010 CHUNK( 'GOKD', 0x00016010, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 899
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "shared\bmp\balln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "bmp\balln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 0 0 0 32 1 0 0 0 0
 	SHORT 0 0 0 32 1 0 0 0 0
 ENDCHUNK
@@ -8811,7 +8896,7 @@ SET _curgok = 0x00016003 CHUNK( 'GOKD', 0x00016003, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 899
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "shared\bmp\balln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "bmp\balln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 0 0 0 32 1 0 0 0 0
 	SHORT 0 0 0 32 1 0 0 0 0
 ENDCHUNK
@@ -8822,7 +8907,7 @@ ENDCHUNK
 SET _curgok = 0x00016002 CHUNK( 'GOKD', 0x00016002, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 999
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 40, 29 ) "shared\bmp\balln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 40, 29 ) "bmp\balln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 7 24 7 64 8 0 0 0 22
 	SHORT 3 8 7 20 8 17 8 8 8
 ENDCHUNK
@@ -8833,7 +8918,7 @@ ENDCHUNK
 SET _curgok = 0x0001600a CHUNK( 'GOKD', 0x0001600a, ) PACK SHORT BO OSK LONG 6
 	LONG 0 0 0 999
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 40, 29 ) "shared\bmp\vo.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 40, 29 ) "bmp\vo.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 7 24 7 64 8 0 0 0 22
 	SHORT 3 8 7 20 8 17 8 8 8
 ENDCHUNK
@@ -8844,7 +8929,7 @@ ENDCHUNK
 SET _curgok = 0x00016004 CHUNK( 'GOKD', 0x00016004, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 999
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 30, 5 ) "shared\bmp\border1.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 30, 5 ) "bmp\border1.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 11 20 31 40 1 0 0 0 8
 	SHORT 25 8 25 32 1 0 0 0 8
 ENDCHUNK
@@ -8857,7 +8942,7 @@ SET _curgok = 0x00016011 CHUNK( 'GOKD', 0x00016011, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 168, 56 ) "shared\bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 168, 56 ) "bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 4 4 160 8 0 0 0 4
 	SHORT 3 3 3 50 8 0 0 0 3
 ENDCHUNK
@@ -8888,7 +8973,7 @@ SET _curgok = 0x0001602c CHUNK( 'GOKD', 0x0001602c, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 0x0021 0 0xFFFFFFFF 
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 84, 28 ) "shared\bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 84, 28 ) "bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 4 4 160 8 0 0 0 4
 	SHORT 3 3 3 50 8 0 0 0 3
 ENDCHUNK
@@ -8911,7 +8996,7 @@ SET _curgok = 0x0001602d CHUNK( 'GOKD', 0x0001602d, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 0x0021 0 0xFFFFFFFF 
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 84, 28 ) "shared\bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 84, 28 ) "bmp\tooltip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 4 4 160 8 0 0 0 4
 	SHORT 3 3 3 50 8 0 0 0 3
 ENDCHUNK
@@ -8936,7 +9021,7 @@ SET _curgok = 0x00016015 CHUNK( 'GOKD', 0x00016015, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 61 ) "shared\bmp\coblln0.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 61 ) "bmp\coblln0.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 5 5 8 151 8 0 0 0 8
 	SHORT 4 4 8 106 8 0 0 0 8
 ENDCHUNK
@@ -8948,7 +9033,7 @@ SET _curgok = 0x00016016 CHUNK( 'GOKD', 0x00016016, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "shared\bmp\coblln1.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 1, 1 ) "bmp\coblln1.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 29 8 36 146 8 0 0 0 8
 	SHORT 28 8 32 103 8 0 0 0 8
 ENDCHUNK
@@ -8960,7 +9045,7 @@ SET _curgok = 0x00016017 CHUNK( 'GOKD', 0x00016017, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 1 ) "shared\bmp\coblln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 1 ) "bmp\coblln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 8 8 58 8 35 60 8 8
 	SHORT 41 8 42 108 8 0 0 0 8
 ENDCHUNK
@@ -8972,7 +9057,7 @@ SET _curgok = 0x00016018 CHUNK( 'GOKD', 0x00016018, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 189, 2 ) "shared\bmp\coblln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 189, 2 ) "bmp\coblln3.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 32 8 147 8 0 0 0 36
 	SHORT 30 8 34 103 4 0 0 0 8
 ENDCHUNK
@@ -8984,7 +9069,7 @@ SET _curgok = 0x00016019 CHUNK( 'GOKD', 0x00016019, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 201, 65 ) "shared\bmp\coblln4.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 201, 65 ) "bmp\coblln4.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 46 8 148 8 0 0 0 48
 	SHORT 3 8 8 40 4 34 40 4 8
 ENDCHUNK
@@ -8996,7 +9081,7 @@ SET _curgok = 0x0001601a CHUNK( 'GOKD', 0x0001601a, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 189, 143 ) "shared\bmp\coblln5.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 189, 143 ) "bmp\coblln5.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 32 8 148 8 0 0 0 36
 	SHORT 3 32 8 102 8 0 0 0 36
 ENDCHUNK
@@ -9008,7 +9093,7 @@ SET _curgok = 0x0001601b CHUNK( 'GOKD', 0x0001601b, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 155 ) "shared\bmp\coblln6.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 155 ) "bmp\coblln6.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 8 8 60 8 33 60 8 8
 	SHORT 3 38 8 105 8 0 0 0 44
 ENDCHUNK
@@ -9020,7 +9105,7 @@ SET _curgok = 0x0001601c CHUNK( 'GOKD', 0x0001601c, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 147 ) "shared\bmp\coblln7.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 147 ) "bmp\coblln7.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 30 8 34 149 8 0 0 0 8
 	SHORT 3 28 8 101 8 0 0 0 38
 ENDCHUNK
@@ -9032,7 +9117,7 @@ SET _curgok = 0x0001601d CHUNK( 'GOKD', 0x0001601d, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 66 ) "shared\bmp\coblln8.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 66 ) "bmp\coblln8.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 32 8 42 150 8 0 0 0 8
 	SHORT 3 8 8 40 4 34 32 4 8
 ENDCHUNK
@@ -9044,7 +9129,7 @@ SET _curgok = 0x0001601e CHUNK( 'GOKD', 0x0001601e, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 500
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 61 ) "shared\bmp\coblln0.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 61 ) "bmp\coblln0.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 5 5 8 151 8 0 0 0 8
 	SHORT 4 4 8 106 8 0 0 0 8
 ENDCHUNK
@@ -9067,7 +9152,7 @@ SET _curgok = 0x00016031 CHUNK( 'GOKD', 0x00016031, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF 
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 1 ) "shared\bmp\coblln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 1 ) "bmp\coblln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 4 8 8 58 8 35 60 8 8
 	SHORT 41 8 42 108 8 0 0 0 8
 ENDCHUNK
@@ -9095,7 +9180,7 @@ SET _curgok = 0x0001602f CHUNK( 'GOKD', 0x0001602f, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF 
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 201, 65 ) "shared\bmp\coblln4.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 201, 65 ) "bmp\coblln4.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 8 46 8 148 8 0 0 0 48
 	SHORT 8 8 8 40 4 34 40 4 8
 ENDCHUNK
@@ -9123,7 +9208,7 @@ SET _curgok = 0x00016032 CHUNK( 'GOKD', 0x00016032, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF 
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 61 ) "shared\bmp\coblln0.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 61 ) "bmp\coblln0.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 5 5 8 151 8 0 0 0 8
 	SHORT 4 4 8 106 8 0 0 0 8
 ENDCHUNK
@@ -9151,7 +9236,7 @@ SET _curgok = 0x00016030 CHUNK( 'GOKD', 0x00016030, ) PACK SHORT BO OSK LONG 0
 	LONG 512 512 0xffffffff 0x00000001 0xFFFFFFFF 0 0xFFFFFFFF
 	LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF 
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 155 ) "shared\bmp\coblln6.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 83, 155 ) "bmp\coblln6.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 8 8 8 60 8 33 60 8 8
 	SHORT 8 38 8 105 8 0 0 0 44
 ENDCHUNK
@@ -9248,7 +9333,7 @@ ENDCHUNK
 SET _curgok = 0x00016009 CHUNK( 'GOKD', 0x00016009, ) PACK SHORT BO OSK LONG 0
 	LONG 0 40 40 800
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 93, 29 ) "shared\bmp\balln1a.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 93, 29 ) "bmp\balln1a.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 7 7 7 133 4 0 0 0 7
 	SHORT 7 7 7 89 4 0 0 0 7
 ENDCHUNK
@@ -9259,7 +9344,7 @@ ENDCHUNK
 SET _curgok = 0x00016008 CHUNK( 'GOKD', 0x00016008, ) PACK SHORT BO OSK LONG 0
 	LONG 0 40 40 800
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 170, 103 ) "shared\bmp\balln1e.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 170, 103 ) "bmp\balln1e.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 7 32 7 131 4 0 0 0 32
 	SHORT 7 7 7 70 4 0 0 0 26
 ENDCHUNK
@@ -9271,7 +9356,7 @@ ENDCHUNK
 SET _curgok = 0x00016007 CHUNK( 'GOKD', 0x00016007, ) PACK SHORT BO OSK LONG 0
 	LONG 0 40 40 800
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 102 ) "shared\bmp\balln1d.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 0, 102 ) "bmp\balln1d.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 32 7 32 131 4 0 0 0 7
 	SHORT 7 7 7 68 4 0 0 0 26
 ENDCHUNK
@@ -9282,7 +9367,7 @@ ENDCHUNK
 SET _curgok = 0x00016006 CHUNK( 'GOKD', 0x00016006, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 999
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 40, 29 ) "shared\bmp\balln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 40, 29 ) "bmp\balln2.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 7 24 7 64 8 0 0 0 22
 	SHORT 7 8 7 20 8 17 8 8 8
 ENDCHUNK
@@ -9295,15 +9380,15 @@ SET _curgok = 0x00016100 CHUNK( 'GOKD', 0x00016100, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0xffffffff 0x00000001 0x0001 0 0xFFFFFFFF
 ENDCHUNK
 
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\squishy1.bmp" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) BITMAP( 0x00, 0, 0 ) "bmp\squishy1.bmp" ENDCHUNK
 
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\squishy3.bmp" ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) BITMAP( 0x00, 0, 0 ) "shared\bmp\squishy2.bmp" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) BITMAP( 0x00, 0, 0 ) "bmp\squishy3.bmp" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) BITMAP( 0x00, 0, 0 ) "bmp\squishy2.bmp" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0002 _st )
-SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x001D _st ) FILE "shared\sound\ok.wav" ENDCHUNK
-#line 47 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
+SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x001D _st ) FILE "sound\ok.wav" ENDCHUNK
+#line 50 "D:\\3D\\src\\shared\\shared.cht"
 
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\biopage.cht"
+#line 1 "D:\\3D\\src\\shared\\biopage.cht"
 
 
 
@@ -9316,9 +9401,9 @@ SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st =
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\projmain.h"
 
 
+#line 1 "D:\\3D\\INC\\projmain.h"
 
 
 
@@ -9724,16 +9809,21 @@ SET _dfwave++ CHUNK( 'WAVE', _dfwave,  ) PACK PARENT( 'GOKD', _curgok, SET _st =
 
 
 
-#line 14 "H:\\BUILD\\SOC\\src\\shared\\biopage.cht"
 
-CHUNK( 'WAVE', 0x00010044, ) FILE "shared\sound\biofound.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00010045, ) FILE "shared\sound\bioalrdy.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00010046, ) FILE "shared\sound\tbkopen.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00018114, ) FILE "shared\sound\biocancl.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00018115, ) FILE "shared\sound\biopop.wav" ENDCHUNK
+
+
+
+
+#line 16 "D:\\3D\\src\\shared\\biopage.cht"
+
+CHUNK( 'WAVE', 0x00010044, ) FILE "sound\biofound.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010045, ) FILE "sound\bioalrdy.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010046, ) FILE "sound\tbkopen.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00018114, ) FILE "sound\biocancl.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00018115, ) FILE "sound\biopop.wav" ENDCHUNK
 
 SET _curgok = 0x00015100 CHUNK( 'GOKD', 0x00015100,  ) PACK SHORT BO OSK LONG 1 LONG 0 0 0 1000 LONG 0 0 0xffffffff 0x00000002 0xFFFFFFFF 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "shared\pbm\biopage.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\biopage.pbm" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, 0x00000040 )
 SET _dfanm++ CHUNK( 'GLSC', _dfanm,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0010 _st ) SCRIPT
 	
@@ -9838,15 +9928,15 @@ SET _dfvid++ CHUNK( 'VIDE', _dfvid,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0
 
 
 SET _curgok = 0x00015108 CHUNK( 'GOKD', 0x00015108,  ) PACK SHORT BO OSK LONG 0 LONG 0 0 0 10 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "shared\pbm\biopanel.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\biopanel.pbm" ENDCHUNK
 
 
 
 SET _curgok = 0x00015103 CHUNK( 'GOKD', 0x00015103,  ) PACK SHORT BO OSK LONG 0 LONG 0 511 415 10 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "shared\pbm\cancel.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\cancel.pbm" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0001 _st )
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0002 _st )
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) PACKEDFILE "shared\pbm\cancelc.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) PACKEDFILE "pbm\cancelc.pbm" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 	
 	
@@ -9861,10 +9951,10 @@ ENDCHUNK
 
 
 SET _curgok = 0x00015104 CHUNK( 'GOKD', 0x00015104,  ) PACK SHORT BO OSK LONG 0 LONG 0 339 410 10 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "shared\pbm\fwd.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\fwd.pbm" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0001 _st )
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0002 _st )
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) PACKEDFILE "shared\pbm\fwdc.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) PACKEDFILE "pbm\fwdc.pbm" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 	curr = ::nBioPage;
 	While( 1 );
@@ -9885,10 +9975,10 @@ ENDCHUNK
 
 
 SET _curgok = 0x00015105 CHUNK( 'GOKD', 0x00015105,  ) PACK SHORT BO OSK LONG 0 LONG 0 229 410 10 LONG 0 0 0xffffffff 0x00000001 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF ENDCHUNK
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "shared\pbm\back.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) PACKEDFILE "pbm\back.pbm" ENDCHUNK
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0001 _st )
 ADOPT( 'GOKD', _curgok, 'MBMP', _dfmbmp, SET _st = 0x10000 SET _st |= 0x0002 _st )
-SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) PACKEDFILE "shared\pbm\backc.pbm" ENDCHUNK
+SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0003 _st ) PACKEDFILE "pbm\backc.pbm" ENDCHUNK
 SET _dfscr++ CHUNK( 'GLOP', _dfscr,  ) PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0001 _st ) SCRIPT
 	curr = ::nBioPage;
 	While( 1 );
@@ -9912,10 +10002,10 @@ ENDCHUNK
 
 
 
-CHUNK( 'WAVE', 0x00010040, ) FILE "shared\sound\bio\TBPAGEB1.WAV" ENDCHUNK	
-CHUNK( 'WAVE', 0x00010041, ) FILE "shared\sound\bio\TBPAGEB2.WAV" ENDCHUNK	
-CHUNK( 'WAVE', 0x00010042, ) FILE "shared\sound\bio\TBPAGEF1.WAV" ENDCHUNK
-CHUNK( 'WAVE', 0x00010043, ) FILE "shared\sound\bio\TBPAGEF2.WAV" ENDCHUNK
+CHUNK( 'WAVE', 0x00010040, ) FILE "sound\bio\TBPAGEB1.WAV" ENDCHUNK	
+CHUNK( 'WAVE', 0x00010041, ) FILE "sound\bio\TBPAGEB2.WAV" ENDCHUNK	
+CHUNK( 'WAVE', 0x00010042, ) FILE "sound\bio\TBPAGEF1.WAV" ENDCHUNK
+CHUNK( 'WAVE', 0x00010043, ) FILE "sound\bio\TBPAGEF2.WAV" ENDCHUNK
 
 
 
@@ -9947,7 +10037,7 @@ SET _curgok = 0x00015107 CHUNK( 'GOKD', 0x00015107, ) PACK SHORT BO OSK LONG 0
 	LONG 0 0 0 700
 	LONG 0 0 0xffffffff 0x00000002 SET _st = 0x10000 SET _st |= 0x0001 _st 0 0xFFFFFFFF
 ENDCHUNK
-SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 84, 61 ) "shared\bmp\biotip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
+SET _dftile++ SET _dfmbmp++ CHUNK( 'MBMP', _dfmbmp,  ) PACK BITMAP( 0x00, 84, 61 ) "bmp\biotip.bmp" ENDCHUNK CHUNK( 'TILE', _dftile,  ) PACK PARENT( 'GOKD', _curgok, SET _st = 0x10000 SET _st |= 0x0000 _st ) CHILD( 'MBMP', _dfmbmp, 0 ) SHORT BO OSK
 	SHORT 15 15 24 120 8 0 0 0 24
 	SHORT 12 12 24 74 8 0 0 0 24
 ENDCHUNK
@@ -9983,36 +10073,39 @@ CHUNK( 'GLOP', 0x0001522e, ) SCRIPT
 ENDCHUNK
 
 
-#line 49 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
-#line 1 "H:\\BUILD\\SOC\\src\\shared\\portbmp.cht"
+#line 52 "D:\\3D\\src\\shared\\shared.cht"
+#line 1 "D:\\3D\\src\\shared\\portbmp.cht"
 
 
 
-CHUNK( 'MBMP', 1,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\portfolo.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 9,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\portfols.bmp" ENDCHUNK
+
+CHUNK( 'MBMP', 1,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\portfolo.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 2,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\portok.bmp" ENDCHUNK
+CHUNK( 'MBMP', 9,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\portfols.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 3,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\portokc.bmp" ENDCHUNK
+CHUNK( 'MBMP', 2,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\portok.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 4,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\portcan.bmp" ENDCHUNK
+CHUNK( 'MBMP', 3,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\portokc.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 5,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\portcanc.bmp" ENDCHUNK
+CHUNK( 'MBMP', 4,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\portcan.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 7,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\porthm.bmp" ENDCHUNK
+CHUNK( 'MBMP', 5,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\portcanc.bmp" ENDCHUNK
 
 
-CHUNK( 'MBMP', 8,  ) PACK BITMAP( 0, 0, 0 ) "studio\bmp\porthmc.bmp" ENDCHUNK
+CHUNK( 'MBMP', 7,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\porthm.bmp" ENDCHUNK
 
 
-CHUNK( 'WAVE', 0x00010006, ) FILE "shared\sound\util\vzh1016.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00010005, ) FILE "shared\sound\util\vzh1017.wav" ENDCHUNK
-CHUNK( 'WAVE', 0x00010007, ) FILE "shared\sound\util\vzh1018.wav" ENDCHUNK
-#line 50 "H:\\BUILD\\SOC\\src\\shared\\shared.cht"
+CHUNK( 'MBMP', 8,  ) PACK BITMAP( 0, 0, 0 ) "..\studio\bmp\porthmc.bmp" ENDCHUNK
+
+
+CHUNK( 'WAVE', 0x00010006, ) FILE "sound\util\vzh1016.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010005, ) FILE "sound\util\vzh1017.wav" ENDCHUNK
+CHUNK( 'WAVE', 0x00010007, ) FILE "sound\util\vzh1018.wav" ENDCHUNK
+#line 53 "D:\\3D\\src\\shared\\shared.cht"

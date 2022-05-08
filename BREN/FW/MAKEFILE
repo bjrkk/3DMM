@@ -1,0 +1,154 @@
+#-- BRFW.mak
+
+!IFNDEF MAKEFILE_BRFW
+MAKEFILE_BRFW = 1
+
+!INCLUDE $(KAUAI_ROOT)\makefile.def
+
+# Variables
+
+BREN_SRC_DIR      = $(SOC_ROOT)\bren
+BREN_BRFW_SRC_DIR = $(BREN_SRC_DIR)\fw
+
+BREN_OBJ_ROOT_DIR = $(BREN_SRC_DIR)\obj
+BREN_OBJ_DIR      = $(BREN_OBJ_ROOT_DIR)\$(BLD_TYPE_DIR)
+SOC_OBJ_DIR       = $(SOC_ROOT)\obj\$(BLD_TYPE_DIR)
+
+!IF "$(LOCAL_BUILD)" == "1"
+BREN_TGT_DIR =
+!ELSE
+BREN_TGT_DIR = $(BREN_OBJ_DIR)^\
+!ENDIF
+
+BREN_BRFW_TARGETS = \
+	$(BREN_OBJ_DIR)\actsupt.obj\
+	$(BREN_OBJ_DIR)\angles.obj\
+	$(BREN_OBJ_DIR)\brlists.obj\
+	$(BREN_OBJ_DIR)\brqsort.obj\
+	$(BREN_OBJ_DIR)\bswap.obj\
+	$(BREN_OBJ_DIR)\custsupt.obj\
+	$(BREN_OBJ_DIR)\datafile.obj\
+	$(BREN_OBJ_DIR)\def_mdl.obj\
+	$(BREN_OBJ_DIR)\def_mat.obj\
+	$(BREN_OBJ_DIR)\diag.obj\
+	$(BREN_OBJ_DIR)\envmap.obj\
+	$(BREN_OBJ_DIR)\error.obj\
+	$(BREN_OBJ_DIR)\ffhooks.obj\
+	$(BREN_OBJ_DIR)\file.obj\
+	$(BREN_OBJ_DIR)\fileops.obj\
+	$(BREN_OBJ_DIR)\fixed.obj\
+	$(BREN_OBJ_DIR)\fontptrs.obj\
+	$(BREN_OBJ_DIR)\fwsetup.obj\
+	$(BREN_OBJ_DIR)\light8.obj\
+	$(BREN_OBJ_DIR)\light8o.obj\
+	$(BREN_OBJ_DIR)\light24.obj\
+	$(BREN_OBJ_DIR)\light24o.obj\
+	$(BREN_OBJ_DIR)\logprint.obj\
+	$(BREN_OBJ_DIR)\matrix23.obj\
+	$(BREN_OBJ_DIR)\matrix34.obj\
+	$(BREN_OBJ_DIR)\matrix4.obj\
+	$(BREN_OBJ_DIR)\mem.obj\
+	$(BREN_OBJ_DIR)\onscreen.obj\
+	$(BREN_OBJ_DIR)\pick.obj\
+	$(BREN_OBJ_DIR)\pixelmap.obj\
+	$(BREN_OBJ_DIR)\pmdsptch.obj\
+	$(BREN_OBJ_DIR)\pmgenops.obj\
+	$(BREN_OBJ_DIR)\pmmemops.obj\
+	$(BREN_OBJ_DIR)\pool.obj\
+	$(BREN_OBJ_DIR)\prelight.obj\
+	$(BREN_OBJ_DIR)\prepmatl.obj\
+	$(BREN_OBJ_DIR)\prepmesh.obj\
+	$(BREN_OBJ_DIR)\prepmap.obj\
+	$(BREN_OBJ_DIR)\preptab.obj\
+	$(BREN_OBJ_DIR)\quat.obj\
+	$(BREN_OBJ_DIR)\quantize.obj\
+	$(BREN_OBJ_DIR)\register.obj\
+	$(BREN_OBJ_DIR)\regsupt.obj\
+	$(BREN_OBJ_DIR)\resource.obj\
+	$(BREN_OBJ_DIR)\scalar.obj\
+	$(BREN_OBJ_DIR)\scale.obj\
+	$(BREN_OBJ_DIR)\scratch.obj\
+	$(BREN_OBJ_DIR)\scrstr.obj\
+	$(BREN_OBJ_DIR)\surface.obj\
+	$(BREN_OBJ_DIR)\transfrm.obj\
+	$(BREN_OBJ_DIR)\vector.obj\
+	$(BREN_OBJ_DIR)\fixed386.obj\
+	$(BREN_OBJ_DIR)\fxadc386.obj\
+	$(BREN_OBJ_DIR)\blockops.obj\
+	$(BREN_OBJ_DIR)\magicsym.obj\
+	$(BREN_OBJ_DIR)\fnt3x5.obj\
+	$(BREN_OBJ_DIR)\fntp4x6.obj\
+	$(BREN_OBJ_DIR)\fntp7x9.obj\
+	$(BREN_OBJ_DIR)\memloops.obj\
+
+# Compile Rules
+
+PROGRAM_DATABASE = $(BREN_TGT_DIR)soc.pdb
+PRECOMPILED_HEADER = $(BREN_TGT_DIR)soc.pch
+
+SRC_DIR=$(BREN_BRFW_SRC_DIR)
+OBJ_DIR=$(BREN_OBJ_DIR)
+TGT_NAME=Bren_BRFW
+
+!INCLUDE $(SOC_ROOT)\makefile.rul
+
+# Flags
+
+ASMFLAGS= -D__WATCOMC__=1 -D__VISUALC__=1 -D__TARGET_MSC__=1 -DBASED_FIXED=1 $(ASMFLAGS)
+CPPFLAGS= /c /W3 /nologo /Zp4 /Gz -D__VISUALC__=1 -D__TARGET_MSC__=1 -DBASED_FIXED=1 -I.
+
+# Targets
+
+ALL_BREN_BRFW =\
+	$(BREN_TGT_DIR)brfwmxr.lib\
+	$(SOC_ROOT)\elib\$(BLD_TYPE_DIR)\brfwmxr.lib\
+
+ALL_TARGETS_ROOT = $(ALL_TARGETS_ROOT) $(ALL_BREN_BRFW)
+
+CLEAN_BREN_BRFW = CLEAN_BREN_BRFW_OBJ
+CLEAN_TARGETS_ROOT=$(CLEAN_TARGETS_ROOT) $(CLEAN_BREN_BRFW)
+
+# +
+
+# Only define generic targets if we're not building in the current directory
+!IF "$(LOCAL_BUILD)" != "1"
+!IF "$(LOCAL_BUILD)" != "0"
+
+ALL: $(BREN_OBJ_DIR) $(ALL_BREN_BRFW)
+CLEAN: $(CLEAN_BREN_BRFW) ALL
+
+!ENDIF # !LOCAL_BUILD != 0
+
+$(BREN_OBJ_DIR):
+    @echo Making Directories $(BREN_OBJ_DIR)...
+    if not exist $(BREN_OBJ_ROOT_DIR)/nul mkdir $(BREN_OBJ_ROOT_DIR)
+    if not exist $(BREN_OBJ_DIR)/nul mkdir $(BREN_OBJ_DIR)
+
+!ENDIF # !LOCAL_BUILD != 1
+
+CLEAN_BREN_BRFW_OBJ:
+    @echo <<delbrenBRFW.bat
+@echo off
+del /f $(BREN_BRFW_TARGETS: =^
+del /f )
+<<KEEP
+    cmd /c delbrenBRFW.bat
+    del delbrenBRFW.bat
+
+$(BREN_TGT_DIR)brfwmxr.lib : $(BREN_BRFW_TARGETS)
+    $(LINK) -lib$(LFLAGS)\
+    $(BREN_BRFW_TARGETS)\
+    -out:$(BREN_TGT_DIR)brfwmxr.lib
+    $(CHKERR)
+
+$(SOC_ROOT)\elib\$(BLD_TYPE_DIR)\brfwmxr.lib : $(BREN_TGT_DIR)brfwmxr.lib
+    if not exist $(SOC_ROOT)\elib\$(BLD_TYPE_DIR) md $(SOC_ROOT)\elib\$(BLD_TYPE_DIR)
+    $(CHKERR)
+    copy $(BREN_TGT_DIR)brfwmxr.lib $(SOC_ROOT)\elib\$(BLD_TYPE_DIR)
+    $(CHKERR)
+
+{$(BREN_BRFW_SRC_DIR)}.h{$(BREN_BRFW_SRC_DIR)}.fns :
+	!@echo genasmpr $<
+	perl ..\BIN\genasmpr.pl $< >$@
+
+!ENDIF

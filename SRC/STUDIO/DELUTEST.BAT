@@ -1,17 +1,18 @@
 @echo off
-rm -f 
-rm -f H:\BUILD\SOC\obj\wind\splot.obj
-rm -f H:\BUILD\SOC\obj\wind\scnsort.obj
-rm -f H:\BUILD\SOC\obj\wind\browser.obj
-rm -f H:\BUILD\SOC\obj\wind\utest.obj
-rm -f H:\BUILD\SOC\obj\wind\stdioscb.obj
-rm -f H:\BUILD\SOC\obj\wind\stdiobrw.obj
-rm -f H:\BUILD\SOC\obj\wind\studio.obj
-rm -f H:\BUILD\SOC\obj\wind\tgob.obj
-rm -f H:\BUILD\SOC\obj\wind\esl.obj
-rm -f H:\BUILD\SOC\obj\wind\ape.obj
-rm -f H:\BUILD\SOC\obj\wind\popup.obj
-rm -f H:\BUILD\SOC\obj\wind\tatr.obj
-rm -f H:\BUILD\SOC\obj\wind\portf.obj
-rm -f H:\BUILD\SOC\obj\wind\utest.res
-rm -f H:\BUILD\SOC\obj\wind\3dmovie.chk
+del /f 
+del /f E:\3DMM\obj\wins\splot.obj
+del /f E:\3DMM\obj\wins\scnsort.obj
+del /f E:\3DMM\obj\wins\browser.obj
+del /f E:\3DMM\obj\wins\utest.obj
+del /f E:\3DMM\obj\wins\stdioscb.obj
+del /f E:\3DMM\obj\wins\stdiobrw.obj
+del /f E:\3DMM\obj\wins\studio.obj
+del /f E:\3DMM\obj\wins\tgob.obj
+del /f E:\3DMM\obj\wins\esl.obj
+del /f E:\3DMM\obj\wins\ape.obj
+del /f E:\3DMM\obj\wins\popup.obj
+del /f E:\3DMM\obj\wins\tatr.obj
+del /f E:\3DMM\obj\wins\portf.obj
+del /f E:\3DMM\obj\wins\mminstal.obj
+del /f E:\3DMM\obj\wins\utest.res
+del /f E:\3DMM\obj\wins\3dmovie.chk

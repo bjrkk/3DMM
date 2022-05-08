@@ -26,7 +26,7 @@
 #define BUG1973
 
 #define kfps 6 				  // frames per second for playback and recording
-
+// #define kfps 15 				  // frames per second for playback and recording
 
 /***************************************************************************
 	Error codes

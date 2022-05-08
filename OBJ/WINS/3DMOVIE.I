@@ -1,10 +1,10 @@
-#line 1 "H:\\BUILD\\SOC\\src\\studio\\utest.cht"
+#line 1 "D:\\3D\\src\\studio\\utest.cht"
 
 
-#line 1 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
+#line 1 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
@@ -25,7 +25,6 @@
 
 
 
-#line 25 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -35,6 +34,7 @@
 
 
 
+#line 31 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
@@ -406,10 +406,7 @@
 
 
 
-#line 406 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
-#line 4 "H:\\BUILD\\SOC\\src\\studio\\utest.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
 
 
@@ -418,7 +415,10 @@
 
 
 
+#line 412 "D:\\3D\\kauai\\SRC\\framedef.h"
 
+#line 7 "D:\\3D\\src\\studio\\utest.cht"
+#line 1 "D:\\3D\\INC\\socdef.h"
 
 
 
@@ -584,10 +584,7 @@
 
 
 
-#line 176 "H:\\BUILD\\SOC\\inc\\socdef.h"
 
-#line 5 "H:\\BUILD\\SOC\\src\\studio\\utest.cht"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
 
 
 
@@ -599,13 +596,15 @@
 
 
 
+#line 179 "D:\\3D\\INC\\socdef.h"
 
+#line 8 "D:\\3D\\src\\studio\\utest.cht"
+#line 1 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
 
-#line 1 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
 
 
@@ -621,6 +620,7 @@
 
 
 
+#line 1 "D:\\3D\\INC\\assert.chh"
 
 
 
@@ -671,11 +671,7 @@
 
 
 
-#line 67 "H:\\BUILD\\SOC\\inc\\assert.chh"
 
-#line 69 "H:\\BUILD\\SOC\\inc\\assert.chh"
-#line 19 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -690,11 +686,14 @@
 
 
 
-#line 1 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
 
 
+#line 70 "D:\\3D\\INC\\assert.chh"
 
+#line 72 "D:\\3D\\INC\\assert.chh"
+#line 22 "D:\\3D\\INC\\kidgs.chh"
+#line 1 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
@@ -711,6 +710,7 @@
 
 
 
+#line 1 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
 
 
@@ -801,10 +801,7 @@
 
 
 
-#line 112 "H:\\BUILD\\KAUAI\\src\\kiddef.h"
 
-#line 16 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\KAUAI\\src\\framedef.h"
 
 
 
@@ -830,7 +827,10 @@
 
 
 
+#line 118 "D:\\3D\\kauai\\SRC\\kiddef.h"
 
+#line 18 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\kauai\\SRC\\framedef.h"
 
 
 
@@ -1211,8 +1211,6 @@
 
 
 
-#line 17 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 1 "H:\\BUILD\\SOC\\inc\\kidsanim.h"
 
 
 
@@ -1245,6 +1243,8 @@
 
 
 
+#line 19 "D:\\3D\\INC\\kidgsdef.h"
+#line 1 "D:\\3D\\INC\\kidsanim.h"
 
 
 
@@ -1825,7 +1825,6 @@
 
 
 
-#line 18 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
 
 
 
@@ -1860,6 +1859,7 @@
 
 
 
+#line 20 "D:\\3D\\INC\\kidgsdef.h"
 
 
 
@@ -1898,22 +1898,56 @@
 
 
 
-#line 91 "H:\\BUILD\\SOC\\inc\\kidgsdef.h"
-#line 20 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 93 "D:\\3D\\INC\\kidgsdef.h"
+#line 23 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
 
 	
-#line 27 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 30 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
 
 	
-#line 34 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 37 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -1921,17 +1955,17 @@
 
 
 	
-#line 42 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 45 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 47 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 50 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 	
-#line 52 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 55 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -2015,12 +2049,12 @@
 
 
 
-#line 136 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 139 "D:\\3D\\INC\\kidgs.chh"
 
 
 
 
-#line 141 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
+#line 144 "D:\\3D\\INC\\kidgs.chh"
 
 
 
@@ -2474,11 +2508,14 @@
 
 
 
-#line 595 "H:\\BUILD\\SOC\\inc\\kidgs.chh"
-#line 6 "H:\\BUILD\\SOC\\src\\studio\\utest.cht"
+#line 598 "D:\\3D\\INC\\kidgs.chh"
+#line 9 "D:\\3D\\src\\studio\\utest.cht"
 
 
-#line 1 "H:\\BUILD\\SOC\\src\\studio\\utestgst.cht"
+#line 1 "D:\\3D\\src\\studio\\utestgst.cht"
+
+
+
 
 
 
@@ -2540,32 +2577,32 @@ CHUNK ('GST ' 6 "Misc. App global strings")
 	ITEM "Overwrite existing file: %s?" 32
 	ITEM "Remove all unused user sounds from file?" 33
 ENDCHUNK
-#line 9 "H:\\BUILD\\SOC\\src\\studio\\utest.cht"
+#line 12 "D:\\3D\\src\\studio\\utest.cht"
 
 
 
 
-CHUNK( 'GLCR', 0,  )  PALETTE "studio\bmp\homelogo.bmp" ENDCHUNK
+CHUNK( 'GLCR', 0,  )  PALETTE "bmp\homelogo.bmp" ENDCHUNK
 
 
 
 
 CHUNK ('MBMP' 6 "Home Logo")
-	PACK BITMAP (0 0 0) "studio\bmp\homelogo.bmp"
+	PACK BITMAP (0 0 0) "bmp\homelogo.bmp"
 ENDCHUNK
 
 
 
 
 CHUNK ('MBMP' 0 "Splash Screen")
-	PACK BITMAP (0 0 0) "studio\bmp\splash.bmp"
+	PACK BITMAP (0 0 0) "bmp\splash.bmp"
 ENDCHUNK
 
 
 
 
 CHUNK ('MIDS' 0 "Splash Sound")
-	MIDI "studio\bmp\splash.mid"
+	MIDI "bmp\splash.mid"
 ENDCHUNK
 
 
